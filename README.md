@@ -1,7 +1,5 @@
 ## Fundamentals of Web Development
 
-> Welcome.  If you are reading this, you have made the decision to become a proficient web software engineer.  This repository will help guide you through understanding the CodeUnion learning experience.
-
 **The Web Fundamentals workshop consists of three important phases.**
 
 - #### The On Boarding or "getting the tooling setup".
