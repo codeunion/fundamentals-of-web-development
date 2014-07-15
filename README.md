@@ -24,8 +24,9 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and run the [dot env tutorial][dot-env]
   - Understand how to correctly store 'environmental keys'.
 1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
-  - Complete tasks and features associate with the request for feedback repository.
+  - Read this repositories readme carefully, ensure that you can submit requests for feedback.
 1. Fork, clone and begin working on [week-1 katas][katas]
+  - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week1 katas.  You should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
