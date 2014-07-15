@@ -13,7 +13,7 @@
 The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development.  A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
 
 
-On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported, that your questions get answered and that our live sessions accurately reflect areas you want to learn more about.
+On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
 
 ### On Boarding Tasks
 
