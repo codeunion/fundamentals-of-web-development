@@ -4,44 +4,43 @@
 
 **The Web Fundamentals workshop consists of three important phases.**
 
-- #### The On Boarding
+- #### The On Boarding or "getting the tooling setup".
 
-- #### A Sprint to the CRUD
+- #### A Sprint to the CRUD or "let's build regular web software".
 
-- #### The Creative Sandbox
-
-**Your first step consists of a series of tasks, objectives and concepts that will allow us to 'on-board' you as though you were a junior engineer joining the CodeUnion remote team.**
-
-CodeUnion organizes itself around a students who orbit a teacher.  The teacher holds two live, interactive sessions per week.  Teachers will learn, organize and challenge you as an individual, and as a member of a team.  As will be illustrated through code and content in pages to come, You will hopefully be afforded an organized, cohesive learning experience that uses code puzzles, tasks, challenges, creative thinking and group problem solving.  Along the way, we will begin to point your internal compass in the direction of developer.
-
-These tasks, objectives and concepts will begin the educational transformation process that is CodeUnion.  Your first goal is to review all the tasks, objectives and concepts associated with the On Boarding phase.  Completing all the objectives and tasks associated with each phase will allow CodeUnion teachers to guide your progress.  The phases represent different goals and have distinct characteristics tied to purpose, format and content.  Completing phases within the timeframes specified will help you stay on track with the CodeUnion pace.  
-
-**Above all, our structure will enable you to have fun while learning.**
+- #### The Creative Sandbox or "let's build fancier web software".
 
 ## PHASE 1 - The On Boarding
 
-> The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development.  A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
+The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development.  A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
 
-#### Please attempt to complete the below tasks before the start of first day of the web fundamental workshop but at least by the end of the first week.
 
-On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you on boarding.  Future weeks tasks will focus more on writing code and less on technical tooling but we must ensure you finish these tasks in order to give you an orientation with the relevents tools.
-
-### STUCK@CODEUNION.IO (we will always answer!)
+On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported, that your questions get answered and that our live sessions accurately reflect areas you want to learn more about.
 
 ### On Boarding Tasks
 
-1. Fork this repository.
-1. Complete the tools verification challenges.
-  - git
-  - ruby 2.0
-  - sublime or a working text editor
-  - terminal
-  - github access, including ssh.
-  - Understanding and differentiate between irb and ruby script files.
-1. Review the fork, clone and pull concepts.
-1. Fork, clone and pull the rff repo, complete all associated challenges.
-1. Use the .env tutorial to understand how to correctly store keys.  
-1. Begin and finish week 1 katas.
-1. Submit your week 1 katas for both on going code review and request for structured task check-offs.
+1. Read and digest [working with the development environment][development-environment].
+  - Ensure you have ruby 2.0 or higher running.
+1. Read and digest [git basics][git-basics].
+  - Fork and clone the [web fundamentals repo][web-fundamentals-repo].
+1. Fork, clone and run the [dot env tutorial][dot-env]
+  - Understand how to correctly store 'environmental keys'.
+1. Fork, clone and run the [reques for feedback][request-for-feedback] repository.
+  - Complete tasks and features associate with the request for feedback repository.
+1. Fork, clone and begin working on [week-1 katas][katas]
 
-See [the wiki](https://github.com/codeunion/fundamentals-of-web-development/wiki).
+You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week1 katas.  You should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
+
+**If you have finished the onboarding process and would like to dial in some more tools..**
+
+1. Read, digest and [configure your terminal][configuring-terminal].
+1. Read, digest and [learn some unix][command-line-essentials].
+
+[development-environment]:https://github.com/codeunion/fundamentals-of-web-development/wiki/development-environment
+[git-basics]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Git-Basics
+[web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development
+[dot-env]:https://github.com/codeunion/dotenv-example
+[request-for-feedback]:https://github.com/codeunion/request-for-feedback
+[katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
+[configuring-terminal]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Configuring-Your-Terminal
+[command-line-essentials]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Command-Line-Essentials
