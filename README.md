@@ -30,6 +30,11 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week1 katas.  You should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
+**Purely Optional
+
+- Join our facebook group, we post code, memes, invites to parties and whatever else seems like fun.
+  - https://www.facebook.com/groups/webfundamentals/
+
 **If you have finished the onboarding process and would like to dial in some more tools..**
 
 1. Read, digest and [configure your terminal][configuring-terminal].
