@@ -6,12 +6,12 @@ Let's assume that we want to know what the average word count of a tweet is.  We
 ```json
   [ {"tweet1" => "this is a tweet"}, { "tweet2" => "I luve food"}, { "tweet3" => "I <3 startups"} ]
 ```
-There are three tweets in this Array, the first tweet has a word count of 4, the second a word count of 3 and the third tweet has a word count of (how to interpret the '<3') ?
+There are three tweets in this Array, the first tweet has a word count of 4, the second a word count of 3 and the third tweet has a word count of (how to interpret the '<3') ?  The above array is meant to represent what the Twitter api returns as a collection of tweets, the actual api response will not look like this. 
 
 Create a sinatra application that:
 
 - At the root "/", the application accepts a hashtag as an argument, something like #worldcup or #startuplife
-- On the server, query the twitter api for as many tweets as you can get in one api call related to the hashtag input from the client.
+- On the server, query the twitter api for as many tweets as you can get in one api call related to the hashtag input from the client. 
 - On the server build a class that represents a report, something that could aggregate details related to word count, make the class capture the date and the average word count and the total quantity of tweets counted.
 - Ensure the full life cyle of CRUD behavior, index, show, create, edit(?), destroy can be enacted on report objects. Why does edit (?) have a question mark?
 - Once the server has accepted the hashtag and run whatever code required to produce the above report object, display a report in the browser.
