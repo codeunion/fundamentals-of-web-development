@@ -29,7 +29,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and begin working on [week-1 katas][katas]
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
-You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week1 katas.  You should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
+You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week1 katas.  Completing the On Boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
 **Purely Optional**
 
