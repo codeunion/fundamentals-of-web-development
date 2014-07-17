@@ -16,6 +16,7 @@ The On Boarding phase will ensure your technical environment functions appropria
 On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
 
 ### On Boarding Tasks
+##### please complete in order
 
 1. Read and digest [working with the development environment][development-environment].
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
