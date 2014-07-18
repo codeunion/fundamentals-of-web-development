@@ -18,6 +18,8 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 ### On Boarding Tasks
 ##### please complete in order
 
+1. Read and digest [asking for help][asking-for-help]
+  - Make sure you ask for help or support whenever you feel stuck.
 1. Read and digest [working with the development environment][development-environment].
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
 1. Read and digest [git basics][git-basics].
@@ -49,3 +51,4 @@ You have successfully on boarded when you complete the above tasks and begin mak
 [katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
 [configuring-terminal]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Configuring-Your-Terminal
 [command-line-essentials]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Command-Line-Essentials
+[asking-for-help]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Communications
