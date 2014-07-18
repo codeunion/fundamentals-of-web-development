@@ -24,6 +24,8 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
 1. Read and digest [git basics][git-basics].
   - Fork and clone the [web fundamentals repo][web-fundamentals-repo].
+  - Visit your own github profile, upload a nice pic and add a public email address.
+  - https://github.com/settings/profile
 1. Fork, clone and run the [dot env tutorial][dot-env]
   - Understand how to correctly store 'environmental keys'.
 1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
@@ -36,7 +38,7 @@ You have successfully on boarded when you complete the above tasks and begin mak
 **Purely Optional**
 
 - Join our facebook group, we post code, memes, invites to parties and whatever else seems like fun.
-  - https://www.facebook.com/groups/webfundamentals/
+  - https://www.facebook.com/groups/codeunion/
 
 **If you have finished the onboarding process and would like to dial in some more tools..**
 
