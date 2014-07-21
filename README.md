@@ -28,11 +28,14 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
 1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
-  - Read this repository's readme carefully, ensure that you can submit requests for feedback.
+  - Read this repository's readme carefully and complete any/all necessary steps
+  - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
 1. Fork, clone and begin working on [week-1 katas][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week-1 katas.  Completing the On Boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
+
+Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders will be issuing you todos.  These todos will help us keep you on a linear skills development path.  They will also help us understand and evaluate your personal progression as a coder.  We will be posting todos into [web-fundamentals-todos] and mentioning you in the body of the todo.  Ensure your github profile has an email address where you receive notfications.
 
 **Purely Optional**
 
@@ -54,3 +57,5 @@ You have successfully on boarded when you complete the above tasks and begin mak
 [command-line-essentials]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Command-Line-Essentials
 [asking-for-help]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Communications
 [github-profile]:https://github.com/settings/profile
+[fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
+[web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
