@@ -35,7 +35,9 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week-1 katas.  Completing the On Boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
-Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders will be issuing you todos.  These todos will help us keep you on a linear skills development path.  They will also help us understand and evaluate your personal progression as a coder.  We will be posting todos into [web-fundamentals-todos] and mentioning you in the body of the todo.  Ensure your github profile has an email address where you receive notfications.
+Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders will be issuing you todos.  These todos will help us keep you on a linear skills development path.  They will also help us understand and evaluate your personal progression as a coder.  We will be posting todos into [web-fundamentals-todos] and mentioning you in the body of the todo.  Ensure your github profile has an email address where you receive email notifications when you get mentioned.  https://github.com/settings/notifications
+
+![http://cl.ly/image/3k2f1u0h3I0J/Image%202014-07-21%20at%2011.16.06%20AM.png](http://cl.ly/image/3k2f1u0h3I0J/Image%202014-07-21%20at%2011.16.06%20AM.png)
 
 **Purely Optional**
 
