@@ -18,7 +18,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 ### On Boarding Tasks
 ##### please complete in order
 
-1. Read and digest [communciations and help][communications-and-help].
+1. Read and digest [communications and help][communications-and-help].
   - Make sure you ask for help or support whenever you feel stuck.
 1. Read and digest [working with the development environment][development-environment].
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
