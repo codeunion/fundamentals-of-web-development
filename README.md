@@ -27,6 +27,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
   - Visit your own [github profile][github-profile], upload a pic and add a publicly viewable email address.
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
+  - If you find yourself getting require errors, look at the [bundle tutorial][bundler-tutorial].
 1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
   - Read this repository's readme carefully and complete any/all necessary steps
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
@@ -61,3 +62,4 @@ Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders
 [github-profile]:https://github.com/settings/profile
 [fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
 [web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
+[bundler-tutorial]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Bundler-Tutorial
