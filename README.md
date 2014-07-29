@@ -23,7 +23,6 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Read and digest [working with the development environment][development-environment].
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
 1. Read and digest [git basics][git-basics].
-  - Fork and clone the [web fundamentals repo][web-fundamentals-repo].
   - Visit your own [github profile][github-profile], upload a pic and add a publicly viewable email address.
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
