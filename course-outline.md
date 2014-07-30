@@ -78,8 +78,12 @@ Core tooling, processes, and mental models.
 
 ### Capabilities (Week 1)
 
-1. Debugging, debugging, debugging
-1. Will add more, didn't originally have this section
+1. Language and process for debugging.
+1. Ability to model procedures with pseudo-code.
+1. Request feedback.
+1. Use ruby script files.
+1. Return values.
+1. Method definition
 
 
 ## Week 2

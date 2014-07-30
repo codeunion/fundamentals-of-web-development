@@ -48,6 +48,7 @@ Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders
 
 1. Read, digest and [configure your terminal][configuring-terminal].
 1. Read, digest and [learn some unix][command-line-essentials].
+1. Setup your [github ssh keys][ssh-key].
 
 [development-environment]:https://github.com/codeunion/fundamentals-of-web-development/wiki/development-environment
 [git-basics]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Git-Basics
@@ -62,3 +63,4 @@ Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders
 [fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
 [web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
 [bundler-tutorial]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Bundler-Tutorial
+[ssh-key]:https://help.github.com/articles/generating-ssh-keys
