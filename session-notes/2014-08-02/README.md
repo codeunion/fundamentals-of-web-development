@@ -73,9 +73,9 @@ puts 8.1.ceil
 ```
 ## Demonstrate how to attack a problem by completing a student kata.
 
-  - ### Articulate the required output
-  - ### Articulate the known inputs
-  - ### Create pseudo code
+  - Articulate the required output
+  - Articulate the known inputs
+  - Create pseudo code
 
 ```ruby
 # Method name: count_max
