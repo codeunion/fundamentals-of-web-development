@@ -118,7 +118,7 @@ p count_max([1,2,3,4,4])
 
 ## Applied knowledge of how to attack a problem on v[0.1] of [text analysis project.][text-analysis]
 
-
+### Excellent gist on the idea of [truthy and falsy][truthy].
 ```ruby
 # articulate the required output
 # articulate the known inputs
@@ -188,3 +188,4 @@ The two snippets above compare different details.
 ### Always pay attention to and consider what code actually evaluates to.
 
 [text-analysis]:https://github.com/codeunion/text-analysis/wiki/Iterations#v01-basic-count-statistics
+[truthy]:https://gist.github.com/jfarmer/2647362
