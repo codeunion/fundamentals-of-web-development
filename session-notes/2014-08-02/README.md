@@ -8,7 +8,7 @@
 
 # Class Notes
 
-##  Opened with round robyn drills
+##  Opened with round robin drills
 
 ```ruby
 
