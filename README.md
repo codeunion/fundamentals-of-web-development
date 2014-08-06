@@ -30,6 +30,8 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
   - Read this repository's readme carefully and complete any/all necessary steps
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
+1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-setttins]!
+  - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width. _NULLO NON TEMPORE_ :exclamation:
 1. Fork, clone and begin working on [week-1 katas][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
@@ -64,3 +66,4 @@ Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders
 [web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
 [bundler-tutorial]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Bundler-Tutorial
 [ssh-key]:https://help.github.com/articles/generating-ssh-keys
+[indentation-setttins]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Kitchen-Sink#indentation

@@ -22,7 +22,7 @@ Consider the difference in informational utility between knowing the word count 
 
 # TODO's
 
-- [ ] Demonstrate submitomatic, does this mean teaching merging upstream changes?
+- [ ] Demonstrate submitomatic, Talk about the nature of pulling most recent changes.
 
 - [ ] Should submit--o-matic send out a weekly statement of outstanding todo's?
 
