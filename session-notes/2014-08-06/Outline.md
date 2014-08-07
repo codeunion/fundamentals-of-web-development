@@ -2,7 +2,7 @@
 
 ### How to make our textalyzer program available to users on the internet?
 
-- [ ] need to have some sinatra code wired up?
+- [x] need to have some sinatra code wired up?
 
 - [ ] create a class that is basic stats on a report call it `Tps`, build some `d3` business?
 
@@ -35,4 +35,11 @@ Consider the difference in informational utility between knowing the word count 
 - [ ] Maybe clearer demonstration of dynamic insertion of Array elements into a hash and how truthy works based on [david's discussion][array-hash-lookup]
 
 
-[array-hash-lookup]:https://github.com/dwhite96/text-analysis/commit/fc80915f1ffb7282f181352db473e9e628630ecc#commitcomment-7249092
+# SESSION NOTES
+
+## Plan of Attack
+
+1. Drills, drills, drills.
+2. What is the return value, `get("/") do end` ?
+
+https://github.com/codeunion/fundamentals-of-web-development/tree/master/session-notes/2014-08-06
