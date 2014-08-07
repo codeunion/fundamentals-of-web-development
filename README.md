@@ -1,14 +1,6 @@
 ## Fundamentals of Web Development
 
-**The Web Fundamentals workshop consists of three important phases.**
-
-- #### The On Boarding or "getting the tooling setup".
-
-- #### A Sprint to the CRUD or "let's build regular web software".
-
-- #### The Creative Sandbox or "let's build fancier web software".
-
-## PHASE 1 - The On Boarding
+## The On Boarding
 
 The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development.  A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
 
@@ -27,7 +19,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
   - If you find yourself getting require errors, look at the [bundle tutorial][bundler-tutorial].
-1. Fork, clone and run the [request for feedback][request-for-feedback] repository.
+1. Fork, clone and run the [request-o-matic][request-o-matic] repository.
   - Read this repository's readme carefully and complete any/all necessary steps
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
 1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-setttins]!
@@ -56,7 +48,7 @@ Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders
 [git-basics]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Git-Basics
 [web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development
 [dot-env]:https://github.com/codeunion/dotenv-example
-[request-for-feedback]:https://github.com/codeunion/request-for-feedback
+[request-o-matic]:https://github.com/codeunion/request-o-matic/
 [katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
 [configuring-terminal]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Configuring-Your-Terminal
 [command-line-essentials]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Command-Line-Essentials
