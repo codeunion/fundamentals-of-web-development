@@ -1,0 +1,19 @@
+{
+  "todo": [
+            { "title": "Build Some SQL Queries",
+              "body": "- [ ] Fork and clone https://github.com/codeunion/sql-queries \n- [ ] Read the Readme, follow the instructions to load the database. \n- [ ] Read and digest queries.sql, write your own queries for all the different situations, learn about SELECT. \n-[ ] Read and digest group_by.sql, write appropriate queries and master GROUP BY \n- [ ] Read and digest join.sql, write queries until you have joins down.  \n- [ ] Submit your queries for feedback and/or ask questions when you get stuck." 
+            }
+            ,
+            { "title": "Build Wall-B, a Solid Web Application.",
+              "body": "- [ ] Fork and clone https://github.com/codeunion/Wall-B \n- [ ] Read the Readme, get the application running, deliver up to feature set v[2.5]\n- [ ] Make sure to deploy your application to heroku. \n-[ ] Submit frequent requests for feedback, get a checkride!" 
+            }
+            ,
+            { "title": "Finish Week 3 Kata",
+              "body": "- [ ] You already have the kata repo :)\n- [ ] Git'er done! \n-[ ] Make sure to submit frequent requests for feedback" 
+            }
+            ,
+            { "title": "Run a functioning application",
+              "body": "- [ ] Fork and clone https://github.com/codeunion/overheard-server \n- [ ] b\n- [ ] Deploy the application to heroku. \n- [ ] Read and attempt to digest overheard.rb, look at the different endpoints, try to make sense of the code that gets triggered in each endpoint, bring questions to live sessions." 
+            }
+          ]
+}
