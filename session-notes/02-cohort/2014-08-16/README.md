@@ -1,4 +1,5 @@
-# Session: Web Fundamentals (Saturday, August 16)
+# Session: Web Fundamentals
+## (Saturday, August 16)
 
 I'll be in around 12:05PM Pacific.  In the meantime, write down any questions, concerns, confusions, though, or whatever else you might have.  They can be as vague or as specific as you'd like.
 
