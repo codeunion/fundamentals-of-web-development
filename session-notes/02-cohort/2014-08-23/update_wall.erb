@@ -1,0 +1,19 @@
+<h2>Update a Wall</h2>
+<form method="POST" action="/walls/<%= @wall.id %>">
+  <input type="hidden" name="_method" value="PUT">
+  <label>Title:
+    <input type="text" name="wall[title]" value="<%=@wall.title%>" />
+
+   </label><br />
+
+  <label>Description:
+    <textarea name="wall[description]"><%=@wall.description%></textarea>
+
+  </label><br />
+
+  <label>Owner:
+    <input type="text" name="wall[created_by]" value="<%=@wall.created_by%>" />
+  </label><br />
+
+  <button>Update the Wall!</button>
+</form>

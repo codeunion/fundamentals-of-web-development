@@ -1,0 +1,6 @@
+<% @walls.each do |wall| %>
+  <h1> <a href="/walls/<%= wall.id %>/update"> <%= wall.title %> </a> </h1>
+<% end %>
+
+<a href="/walls/new">Add Your Own Wall</a>
+<a href="/walls/update">Update a Wall</a>
