@@ -7,8 +7,7 @@ The On Boarding phase will ensure your technical environment functions appropria
 
 On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
 
-### On Boarding Tasks
-##### please complete in order
+### On Boarding Tasks, Please complete in order.
 
 1. Read and digest [communications and help][communications-and-help].
   - Make sure you ask for help or support whenever you feel stuck.
@@ -27,18 +26,14 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Fork, clone and begin working on [week-1 katas][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
-You have successfully on boarded when you complete the above tasks and begin making requests for feedback on week-1 katas.  Completing the On Boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
-
-Part of the CodeUnion commit code receive feedback cycle, CodeUnion code leaders will be issuing you todos.  These todos will help us keep you on a linear skills development path.  They will also help us understand and evaluate your personal progression as a coder.  We will be posting todos into [web-fundamentals-todos] and mentioning you in the body of the todo.  Ensure your github profile has an email address where you receive email notifications when you get mentioned.  https://github.com/settings/notifications
-
-![http://cl.ly/image/3k2f1u0h3I0J/Image%202014-07-21%20at%2011.16.06%20AM.png](http://cl.ly/image/3k2f1u0h3I0J/Image%202014-07-21%20at%2011.16.06%20AM.png)
+You have successfully on boarded when you complete the above tasks and begin making requests for feedback on your code.  Completing the on boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
 **Purely Optional**
 
 - Join our facebook group, we post code, memes, invites to parties and whatever else seems like fun.
   - https://www.facebook.com/groups/codeunion/
 
-**If you have finished the onboarding process and would like to dial in some more tools..**
+**If you have finished the on boarding process and would like to dial in some more tools..**
 
 1. Read, digest and [configure your terminal][configuring-terminal].
 1. Read, digest and [learn some unix][command-line-essentials].
