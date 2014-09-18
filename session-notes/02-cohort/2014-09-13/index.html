@@ -1,0 +1,117 @@
+<!-- <html>
+  <head>
+  </head>
+  <body>
+    <%= yield %>
+  </body>
+</html>
+ -->
+
+ <!--
+Where does this goes in Wall-B?
+
+1. You'll need to create a directory named "public"
+2. You'll want to put your CSS files in that directory.
+3. You'll want to put _any_ static file in that directory, in fact.
+ -->
+
+<html>
+  <head>
+    <title>Wall-B</title>
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <div id="page">
+      <header class="clearfix">
+        <h1>Wall-B</h1>
+        <img src="http://placekitten.com/g/50/50">
+      </header>
+
+      <section id="new-wall">
+        <form action="#" method="post">
+          <input type="text" name="title">
+          <textarea name="description"></textarea>
+          <button type="submit" name="submit">Create Wall</button>
+        </form>
+      </section>
+      <section id="walls">
+        <h2>Walls</h2>
+        <ol class="wall-list">
+          <li>
+            <div class="wall">
+              <h3 class="wall-title">OMG WALLS</h3>
+              <div class="wall-description">
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+              </div>
+              <ul class="wall-actions">
+                <li>
+                  <a href="#">Like</a>
+                </li>
+                <li>
+                  <a href="#">Edit</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <div class="wall">
+              <h3 class="wall-title">OMG WALLS</h3>
+              <div class="wall-description">
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+              </div>
+              <ul class="wall-actions">
+                <li>
+                  <a href="#">Like</a>
+                </li>
+                <li>
+                  <a href="#">Edit</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <div class="wall">
+              <h3 class="wall-title">OMG WALLS</h3>
+              <div class="wall-description">
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+              </div>
+              <ul class="wall-actions">
+                <li>
+                  <a href="#">Like</a>
+                </li>
+                <li>
+                  <a href="#">Edit</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+          <li>
+            <div class="wall">
+              <h3 class="wall-title">OMG WALLS</h3>
+              <div class="wall-description">
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+
+                <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis.</p>
+              </div>
+              <ul class="wall-actions">
+                <li>
+                  <a href="#">Like</a>
+                </li>
+                <li>
+                  <a href="#">Edit</a>
+                </li>
+              </ul>
+            </div>
+          </li>
+        </ol>
+      </section>
+    </div>
+  </body>
+</html>
