@@ -24,21 +24,21 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
 1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-setttins]!
   - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width. _NULLO NON TEMPORE_ :exclamation:
-1. Fork, clone and begin working on [week-1 katas][katas].
+1. Fork, clone and begin working on [Series A Kata][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on your code.  Completing the on boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
+
+**Useful longterm learnings**
+
+1. Read, digest and [configure your terminal][configuring-terminal].
+1. Read, digest and [learn some unix][command-line-essentials].
+1. Setup your [github ssh keys][ssh-key].
 
 **Purely Optional**
 
 - Join our facebook group, we post code, memes, invites to parties and whatever else seems like fun.
   - https://www.facebook.com/groups/codeunion/
-
-**If you have finished the on boarding process and would like to dial in some more tools..**
-
-1. Read, digest and [configure your terminal][configuring-terminal].
-1. Read, digest and [learn some unix][command-line-essentials].
-1. Setup your [github ssh keys][ssh-key].
 
 [development-environment]:https://github.com/codeunion/fundamentals-of-web-development/wiki/development-environment
 [git-basics]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Git-Basics
