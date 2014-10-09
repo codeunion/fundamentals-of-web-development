@@ -23,7 +23,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
   - Read this repository's readme carefully and complete any/all necessary steps
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
 1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-setttins]!
-  - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width. _NULLO NON TEMPORE_ :exclamation:
+  - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width.
 1. Fork, clone and begin working on [Series A Kata][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
 
