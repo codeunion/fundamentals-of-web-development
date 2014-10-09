@@ -9,6 +9,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 
 ### On Boarding Tasks, Please complete in order.
 
+1. Read and digest the [syllabus][syllabus].
 1. Read and digest [communications and help][communications-and-help].
   - Make sure you ask for help or support whenever you feel stuck.
 1. Read and digest [working with the development environment][development-environment].
@@ -54,3 +55,4 @@ You have successfully on boarded when you complete the above tasks and begin mak
 [bundler-tutorial]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Bundler-Tutorial
 [ssh-key]:https://help.github.com/articles/generating-ssh-keys
 [indentation-setttins]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Kitchen-Sink#indentation
+[syllabus]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Syllabus
