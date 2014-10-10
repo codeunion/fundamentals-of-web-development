@@ -34,6 +34,24 @@
 
 https://github.com/PeteVarley/text-analysis/tree/session-code
 
+```ruby
+  def item_counts(array)
+    counts = {} # Initialize counts to an empty Hash
+    array.each do |item|
+      if counts[item]
+        counts[item] += 1
+      else
+        counts[item] = 1
+      end
+    end
+    counts # This returns the "counts" hash
+  end
+
+   sample_array = [ "abby", "abby", "pete", "pete" ]
+   puts sample_array
+   puts item_counts(sample_array)
+```
+
 ### INPUTS
 
   An array of strings i.e. `[ "word", "another word", "word"]`
