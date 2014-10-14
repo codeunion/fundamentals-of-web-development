@@ -5,7 +5,7 @@
   -  Git and github allow programmers to collaborate on code a process called distributed version control.
   
 #### KEY VOCAB
-  - branch, repository, head, checkout, checkin, commit, push, pull, origin, master, merge, remote, log, working copy, git diff, ssh keys, clone, fork.
+  - branch, repository, head, checkout, checkin, commit, push, pull, origin, master, merge, remote, log, working copy, git diff.
   
   
 #### SNIPPETS 
@@ -32,7 +32,6 @@
   cat .git/config
   git init
   git remote add origin some-where.git
-  git clone some-repo
 ```
 
 #### KEY RESOURCES
@@ -41,4 +40,6 @@
   - http://en.wikipedia.org/wiki/Distributed_revision_control
   - http://en.wikipedia.org/wiki/Revision_control
   - https://help.github.com/
-  - https://help.github.com/articles/generating-ssh-keys/
+  
+
+#### Let's pull someone's cli-photo-app
