@@ -42,4 +42,5 @@
   - https://help.github.com/
   
 
-#### Let's pull someone's cli-photo-app
+#### Let's on the cli-photo-app or text-analysis.
+
