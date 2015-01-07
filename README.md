@@ -59,7 +59,7 @@ You have successfully on boarded when you complete the above tasks and begin mak
 
 ## Your Development Environment
 
-Before you start anything, make sure you have your local development environment up and running correctly by going through our [guide to setting up and verifying your development environment](./Development-Environment.md).
+Before you start anything, make sure you have your local development environment up and running correctly by going through our [guide to setting up and verifying your development environment](guides/Development-Environment.md).
 
 ## The Command Line
 
@@ -68,7 +68,7 @@ The **command line** is that scary-seeming, all-text interface you often [see in
 To start, you only need to understand a few basic commands.  Here are some resources:
 
 1. Skillcrush's [Command Line Overview][skillcrush-cli]
-1. CodeUnion's [Command Line Essentials](./Command-Line-Essentials.md)
+1. CodeUnion's [Command Line Essentials](guides/Command-Line-Essentials.md)
 1. Treehouse's [Command Line Basics][treehouse-cli-basics]
 1. Zed Shaw's [Command Line Crash Course][zed-shaw-cli]
 
@@ -76,7 +76,7 @@ On Mac OS X, you can access the command-line by running [Terminal.app][terminal-
 
 ## Git at CodeUnion
 
-**Important** Please read our [Git Basics guide](./Git-Basics.md), which covers the critical aspects of git and GitHub that we'll be using at CodeUnion.
+**Important** Please read our [Git Basics guide](guides/Git-Basics.md), which covers the critical aspects of git and GitHub that we'll be using at CodeUnion.
 
 Git and [GitHub](http://github.com) form the foundation for much of CodeUnion's learning experience, so it's critical you become familiar with GitHub, git, and the common workflows we use to interact with each other. In particular, you should understand what the following phrases mean inside and out:
 
@@ -155,7 +155,7 @@ That means: **come prepared**.
 [request-o-matic]:https://github.com/codeunion/request-o-matic/
 [skillcrush-cli]:http://skillcrush.com/2012/05/25/command-line/
 [ssh-key]:https://help.github.com/articles/generating-ssh-keys
-[syllabus]:guides/Syllabus.md
+[syllabus]:syllabus.md
 [terminal-app-wiki]:http://en.wikipedia.org/wiki/Terminal_(OS_X)
 [treehouse-cli-basics]:http://blog.teamtreehouse.com/command-line-basics
 [web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development

@@ -16,6 +16,6 @@
 
 - Relevence of feedback, momentum, progress
 
-- [Syllabus](../../../guides/Syllabus.md)
+- [Syllabus](../../../syllabus.md)
 
 - Drills ? :)
