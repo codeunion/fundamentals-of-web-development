@@ -48,7 +48,7 @@ You have successfully on boarded when you complete the above tasks and begin mak
 [katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
 [configuring-terminal]:guides/Configuring-Your-Terminal.md
 [command-line-essentials]:guides/Command-Line-Essentials.md
-[communications-and-help]:guides/Communications.md
+[communications-and-help]:communications.md
 [github-profile]:https://github.com/settings/profile
 [fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
 [web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
