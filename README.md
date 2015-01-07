@@ -40,19 +40,19 @@ You have successfully on boarded when you complete the above tasks and begin mak
 - Join our facebook group, we post code, memes, invites to parties and whatever else seems like fun.
   - https://www.facebook.com/groups/codeunion/
 
-[development-environment]:https://github.com/codeunion/fundamentals-of-web-development/wiki/development-environment
-[git-basics]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Git-Basics
+[development-environment]:guides/development-environment.md
+[git-basics]:guides/Git-Basics.md
 [web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development
 [dot-env]:https://github.com/codeunion/dotenv-example
 [request-o-matic]:https://github.com/codeunion/request-o-matic/
 [katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
-[configuring-terminal]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Configuring-Your-Terminal
-[command-line-essentials]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Command-Line-Essentials
-[communications-and-help]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Communications
+[configuring-terminal]:guides/Configuring-Your-Terminal.md
+[command-line-essentials]:guides/Command-Line-Essentials.md
+[communications-and-help]:guides/Communications.md
 [github-profile]:https://github.com/settings/profile
 [fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
 [web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
-[bundler-tutorial]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Bundler-Tutorial
+[bundler-tutorial]:guides/Bundler-Tutorial.md
 [ssh-key]:https://help.github.com/articles/generating-ssh-keys
-[indentation-setttins]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Kitchen-Sink#indentation
-[syllabus]:https://github.com/codeunion/fundamentals-of-web-development/wiki/Syllabus
+[indentation-setttins]:guides/Kitchen-Sink.md#indentation
+[syllabus]:guides/Syllabus.md

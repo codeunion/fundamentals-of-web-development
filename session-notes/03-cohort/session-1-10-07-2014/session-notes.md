@@ -16,6 +16,6 @@
 
 - Relevence of feedback, momentum, progress
 
-- https://github.com/codeunion/fundamentals-of-web-development/wiki/Syllabus
+- [Syllabus](../../../guides/Syllabus.md)
 
 - Drills ? :)

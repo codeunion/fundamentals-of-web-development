@@ -61,7 +61,7 @@ There was some discussion about what constitutes a [web applications](http://en.
 **First Session**
 
 During the second hour, the folks in the first session reviewed the [Text Analysis](https://github.com/codeunion/text-analysis/) project.  Scott volunteered to act as the guinea pig.  With John’s assistance he forked and then cloned the repo to his machine.  The class spent time reviewing the documentation in the README and on the [Wiki](https://github.com/codeunion/text-analysis/wiki/Iterations) page to gain an understanding of the expected outcomes.  They then dove into Sublime Text and talked about the first iteration and what was needed to implement the basic count statistics.
-They wrote a little bit of [**_pseudocode_**](https://github.com/codeunion/fundamentals-of-web-development/wiki/Problem-Solving-in-Ruby), a basic, high level description, of the problem and steps that might be needed to solve it.
+They wrote a little bit of [**_pseudocode_**](../../../guides/Problem-Solving-in-Ruby.md), a basic, high level description, of the problem and steps that might be needed to solve it.
 
 **Second Session**
 
