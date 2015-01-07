@@ -1,8 +1,17 @@
-# Syllabus: Fundamentals of Web Development
+# Syllabus
+
+The curriculum for Fundamentals of Web Development is broken in to 4 themed **sprints**:
+
+- [Sprint 1 - Programming Fundamentals](#sprint-1---programming-fundamentals)
+- [Sprint 2 - First Web Applications](#sprint-2---first-web-applications)
+- [Sprint 3 - Core Patterns in Web Development](#sprint-3---core-patterns-in-web-development)
+- [Sprint 4 - Capstone Project](#sprint-4---capstone-project)
+
+Each sprint is 2 weeks long.
 
 Each sprint, think about picking one of the example projects and working on it to feature completion.
 
-Throughout the entire workshop, attemp to complete as many kata as possible.  Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback.  If someone hasn't responded to your code within 24 hours, make a specific inquiry.
+Throughout the entire workshop, attempt to complete as many kata as possible. Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
 
 ## Sprint 1 - Programming Fundamentals
 
@@ -15,7 +24,7 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 - How is that data encoded?
 - How do I decode and process that data in Ruby?
 
-### Core Concepts & Technologies
+### Topics Covered
 
 - Data in Ruby (integers, floats, strings, arrays, hashes, et-)
 - Reading and writing files
@@ -27,10 +36,9 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 ### Projects
 
 - [HTML photo gallery generator][photo-gallery-cli]
-- [Text analysis and reporting][text-analysis] (word counts, frequencies, et-)
+- [Text analysis and reporting][text-analysis] (word counts, frequencies, etc.)
 
-
-### Self Contained Coding Problems
+### Exercises
 
 - [Series-A Kata][series-A]
 
@@ -40,7 +48,7 @@ Students will dive into basic database-backed web applications using Sinatra.  T
 
 The high-level goal is to get students comfortable with what it means to write, deploy, and debug a web application.
 
-### Core Concepts & Technologies
+### Topics Covered
 
 - Deploying web applications
 - Wireframing, interface design, and static mockups in HTML/CSS
@@ -55,8 +63,7 @@ The high-level goal is to get students comfortable with what it means to write, 
 - [Wall-B, Message Board][wall-b]
 - [Command Line Twitter Client][twitter-client]
 
-
-### Self Contained Coding Problems
+### Exercises
 
 - [Series-B Kata][series-B]
 - [Series-C Kata][series-C]
@@ -68,7 +75,7 @@ The high-level goal is to get students comfortable with what it means to write, 
 
 This sprint will cover several "core patterns" in web development.  Students will have the choice of defining their own project to work on, if they want.
 
-### Core Concepts & Technologies
+### Topics Covered
 
 - AJAX
 - File uploading and processing
@@ -83,8 +90,7 @@ This sprint will cover several "core patterns" in web development.  Students wil
 - [Can I Eat Here][can i eat]
 - [Air Stable][air stable]
 
-
-### Self Contained Coding Problems
+### Exercises
 
 - [Series D Kata][series-D]
 
