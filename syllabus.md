@@ -23,6 +23,8 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 - How do I get that data?
 - How is that data encoded?
 - How do I decode and process that data in Ruby?
+- What kind of value does this procedure return?
+- What is an environment in the context of programming?
 
 ### Topics Covered
 
@@ -32,6 +34,9 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 - Command line arguments and environment variables
 - Interacting with third-party APIs and websites in Ruby
 - Producing web pages (HTML/CSS/JavaScript) with Ruby
+- Git & GitHub
+- Using a professional text editor
+- Bundler & Gemfiles
 
 ### Projects
 
@@ -46,11 +51,19 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 
 Students will dive into basic database-backed web applications using Sinatra.  This sprint will emphasize wireframes, static mockups, and data modeling.
 
-The high-level goal is to get students comfortable with what it means to write, deploy, and debug a web application.
+The high-level goal is to get students comfortable with what it means to write, deploy, and debug a web application. We want students asking questions like:
+
+- How do computers communicate with each other?
+- How will a user interact with this software?
+- When does this code need to run?
+- What is the shape of the data I am working with?
+- Where will I store the data to be managed?
+- How can I inspect the state of this program?
 
 ### Topics Covered
 
 - Deploying web applications
+- Web application frameworks
 - Wireframing, interface design, and static mockups in HTML/CSS
 - The HTTP request/response cycle
 - Relational databases and persistence
@@ -73,7 +86,18 @@ The high-level goal is to get students comfortable with what it means to write, 
 
 ## Sprint 3 - Core Patterns in Web Development
 
-This sprint will cover several "core patterns" in web development.  Students will have the choice of defining their own project to work on, if they want.
+This sprint will cover several "core patterns" in web development.  
+
+Students will have the choice of defining their own project to work on, if they want.
+
+We want students asking questions like:
+
+- What is the desired user experience for my application?
+- How will my application interface with other applications?
+- Why does performance matter?
+- What is an appropriate design pattern to apply in this context?
+- Where in the codebase should this logic reside?
+- What is the difference in execution context between client and server?
 
 ### Topics Covered
 
@@ -86,7 +110,6 @@ This sprint will cover several "core patterns" in web development.  Students wil
 
 ### Projects
 
-- Maybe a Game TBD...
 - [Can I Eat Here][can i eat]
 - [Air Stable][air stable]
 
@@ -97,6 +120,8 @@ This sprint will cover several "core patterns" in web development.  Students wil
 ## Sprint 4 - Capstone Project
 
 Students have the option of defining their own project, continuing to work on their project from Sprint 3, or pick up a new project work on.
+
+This is an open-ended sprint. It is a time for students to define what they want to focus on and hone those skills with guidance and feedback.
 
 
 [photo-gallery-cli]:https://github.com/codeunion/photo-gallery-cli
