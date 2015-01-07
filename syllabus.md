@@ -73,8 +73,10 @@ The high-level goal is to get students comfortable with what it means to write, 
 
 ### Projects
 
+- [Social Wall][social-wall]
 - [Wall-B, Message Board][wall-b]
 - [Command Line Twitter Client][twitter-client]
+- [Tweetalyzer][tweetalyzer]
 
 ### Exercises
 
@@ -110,8 +112,9 @@ We want students asking questions like:
 
 ### Projects
 
-- [Can I Eat Here][can i eat]
-- [Air Stable][air stable]
+- [Can I Eat Here][can-i-eat-here]
+- [Air Stable][air-stable]
+- [LinkedOut][linkedout]
 
 ### Exercises
 
@@ -124,15 +127,44 @@ Students have the option of defining their own project, continuing to work on th
 This is an open-ended sprint. It is a time for students to define what they want to focus on and hone those skills with guidance and feedback.
 
 
-[photo-gallery-cli]:https://github.com/codeunion/photo-gallery-cli
+<!-- Projects -->
+
 [text-analysis]:https://github.com/codeunion/text-analysis
+[photo-gallery-cli]:https://github.com/codeunion/photo-gallery-cli
+[social-wall]:https://github.com/codeunion/social-wall
+[wall-b]:https://github.com/codeunion/wall-b
+[tweetalyzer]:https://github.com/codeunion/tweetalyzer
+[twitter-client]:https://github.com/codeunion/twitter-client
+[air-stable]:https://github.com/codeunion/air-stable
+[can-i-eat-here]:https://github.com/codeunion/can-i-eat-here
+[linkedout]:https://github.com/codeunion/linkedout
+
+<!-- unused -->
+[sinatra-get]:https://github.com/codeunion/sinatra-get
+[sinatra-playground]:https://github.com/codeunion/sinatra-playground
+[sinatra-singing-tweets]:https://github.com/codeunion/sinatra-singing-tweets
+
+
+<!-- Exercises -->
+
 [series-A]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-A
 [series-B]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-B
 [series-C]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-C
 [series-D]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-D
 [sinatra post requests]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/sinatra/handling-get-requests
 [sinatra get requests]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/sinatra/handling-get-requests
-[wall-b]:https://github.com/codeunion/wall-b
-[twitter-client]:https://github.com/codeunion/twitter-client
-[can i eat]:https://github.com/codeunion/can-i-eat-here
-[air stable]:https://github.com/codeunion/air-stable
+
+<!-- unused -->
+[ruby-exercises]:https://github.com/codeunion/ruby-exercises
+[javascript-exercises]:https://github.com/codeunion/javascript-exercises
+[serverside-sinatra-katas]:https://github.com/codeunion/serverside-sinatra-katas
+
+
+<!-- Examples -->
+
+<!-- unused -->
+[examples-sinatra]:https://github.com/codeunion/examples-sinatra
+[simple-servers]:https://github.com/codeunion/simple-servers
+[yardsale]:https://github.com/codeunion/yardsale
+[overheard-server]:https://github.com/codeunion/overheard-server
+[linkedout-example]:https://github.com/codeunion/linkedout-example
