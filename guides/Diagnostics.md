@@ -1,6 +1,6 @@
 # Diagnostics
 
-You try to run a command and you get an error messsage.  You try to connect to a database server and you get some cryptic error message about "sockets" (whatever those are). You try to install a [Ruby gem](Glossary#gem) and your computer bursts into flames.
+You try to run a command and you get an error messsage.  You try to connect to a database server and you get some cryptic error message about "sockets" (whatever those are). You try to install a [Ruby gem](http://glossary.codeunion.io/gem) and your computer bursts into flames.
 
 When this happens — when your computer isn't behaving as you expect — you need to diagnose the problem.  But how?  Even if you knew what information you even needed to help diagnose the problem, how would you go about finding it?
 
