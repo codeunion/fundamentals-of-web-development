@@ -20,9 +20,9 @@ Beyond that, it depends on what operating system you have.
 
 ### Installing Ruby on Max OS X
 
-Be careful of online instructions, because when it comes to installing software like this, the specific steps can vary between versions of OS X.  For example, the steps in OS X 10.8 might be slightly different than those in OS X 10.9.  If something isn’t working, make sure you’re running the same version of OS X that the instructions are assuming.
+Be careful of online instructions, because when it comes to installing software like this, the specific steps can vary between versions of OS X.  For example, the steps in OS X 10.9 might be slightly different than those in OS X 10.10.  If something isn’t working, make sure you’re running the same version of OS X that the instructions are assuming.
 
-If you’re using OS X, these instructions are good: https://gorails.com/setup/osx/10.9-mavericks
+If you’re using OS X, these instructions are good: https://gorails.com/setup/osx/
 
 You only need to follow the “Installing Homebrew” and “Installing Ruby” steps.  Homebrew is a command-line tool for OS X to download and install other command-line software.  To use the command line on OS X you use the Terminal application, which comes with OS X.
 
