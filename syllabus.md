@@ -13,6 +13,20 @@ Each sprint, think about picking one of the example projects and working on it t
 
 Throughout the entire workshop, attempt to complete as many kata as possible. Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
 
+## Learning Goals
+
+1. Understand and use basic Ruby
+1. Understand and implement GET, POST, PUT, DELETE in client server round trip process.
+1. Understand how to read error messages.
+1. Understand how to find solutions to problems with documentation.
+1. Understand how to implement an object that has persistence.
+1. Understand how to build layouts that use properly formed HTML and CSS.
+1. Understand how to make API calls and use the return data in an application (gem and manual methods)
+1. Understand how to create a program for local use.
+1. Understand how to expose a program for use on the internet.
+1. Understand basic web programming with Ruby tools, Ruby, git, Heroku tools, GitHub, Google Chrome and front end debugging tools.
+
+
 ## Sprint 1 - Programming Fundamentals
 
 Students will get their hands dirty writing Ruby applications that interact with files, websites, and third-party APIs.  Most projects will involve printing out "interesting information" in multiple formats, e.g., text, HTML, CSV, and/or JSON.
