@@ -29,17 +29,17 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Read and digest the [syllabus][syllabus].
 1. Read and digest [communications and help][communications-and-help].
   - Make sure you ask for help or support whenever you feel stuck.
-1. Read and digest [working with the development environment][development-environment].
+1. Read and digest [working with the development environment][guide-development-environment].
   - Ensure you have ruby 2.0 or higher, a code editor like sublime and git functioning.
-1. Read and digest [git basics][git-basics].
+1. Read and digest [git basics][guide-git-basics].
   - Visit your own [github profile][github-profile], upload a pic and add a publicly viewable email address.
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
-  - If you find yourself getting require errors, look at the [bundle tutorial][bundler-tutorial].
+  - If you find yourself getting require errors, look at the [bundle tutorial][guide-bundler-tutorial].
 1. Fork, clone and run the [request-o-matic][request-o-matic] repository.
   - Read this repository's readme carefully and complete any/all necessary steps
   - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
-1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-setttins]!
+1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-settings]!
   - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width.
 1. Fork, clone and begin working on [Series A Kata][katas].
   - Use your copy of the request for feedback command line app to submit your first request for code feedback.
@@ -48,8 +48,8 @@ You have successfully on boarded when you complete the above tasks and begin mak
 
 **Useful longterm learnings**
 
-1. Read, digest and [configure your terminal][configuring-terminal].
-1. Read, digest and [learn some unix][command-line-essentials].
+1. Read, digest and [configure your terminal][guide-configuring-terminal].
+1. Read, digest and [learn some unix][guide-command-line-essentials].
 1. Setup your [github ssh keys][ssh-key].
 
 **Purely Optional**
@@ -59,7 +59,7 @@ You have successfully on boarded when you complete the above tasks and begin mak
 
 ## Your Development Environment
 
-Before you start anything, make sure you have your local development environment up and running correctly by going through our [guide to setting up and verifying your development environment](guides/Development-Environment.md).
+Before you start anything, make sure you have your local development environment up and running correctly by going through our [guide to setting up and verifying your development environment][guide-development-environment]
 
 ## The Command Line
 
@@ -119,9 +119,9 @@ Early on in the workshop we'll be the one defining and scoping the projects for 
 
 Every student should aim to complete *at least* one project per week.  If a project isn't on track, there's probably a problem with the project's scope that should be addressed ASAP!  Ask us for feedback. :)
 
-### [Code Katas][weekly-katas-repo]
+### [Code Katas][katas]
 
-We'll also release a new collection of **code katas** each week in the [weekly-katas repository][weekly-katas-repo].  A code kata is a small, self-contained exercise designed to complement the concepts you'll need to work on your projects for that week.  They're named after a common [training technique](http://en.wikipedia.org/wiki/Kata) found in many Japanese martial arts like karate, judo, and aikido.
+We'll also release a new collection of **code katas** each week in the [weekly-katas repository][katas].  A code kata is a small, self-contained exercise designed to complement the concepts you'll need to work on your projects for that week.  They're named after a common [training technique](http://en.wikipedia.org/wiki/Kata) found in many Japanese martial arts like karate, judo, and aikido.
 
 Most of our katas are designed be completed in less than an hour by someone with appropriate prior knowledge. Our goal is preparing these katas is not to ensure that you "get them right," but to establish well-calibrated and productive code→feedback→refactor loop.
 
@@ -135,30 +135,39 @@ Although there might be lecture-like material in some of these sessions, the mai
 
 That means: **come prepared**.
 
+<!-- Pages -->
+
+[communications-and-help]:communications.md
+[indentation-settings]:guides/Kitchen-Sink.md#indentation
+[syllabus]:syllabus.md
+
+[web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development
+[web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
+[fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
+
+<!-- Repos -->
+
+[katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
+[dot-env]:https://github.com/codeunion/dotenv-example
+[request-o-matic]:https://github.com/codeunion/request-o-matic/
+
+<!-- Guides -->
+
+[guide-bundler-tutorial]:http://codeunion.io/curriculum/guides/bundler-tutorial/
+[guide-command-line-essentials]:http://codeunion.io/curriculum/guides/command-line-essentials/
+[guide-configuring-terminal]:http://codeunion.io/curriculum/guides/configuring-your-terminal/
+[guide-development-environment]:http://codeunion.io/curriculum/guides/development-environment/
+[guide-git-basics]:http://codeunion.io/curriculum/guides/git-basics/
+
 <!-- External links -->
 
 [apple-ii-ad]:http://media02.hongkiat.com/vintage-tech-ads/apple-makes-great-carrots.jpg
-[bundler-tutorial]:guides/Bundler-Tutorial.md
 [codeschool-try-git]:https://www.codeschool.com/courses/try-git
-[command-line-essentials]:guides/Command-Line-Essentials.md
-[communications-and-help]:communications.md
-[configuring-terminal]:guides/Configuring-Your-Terminal.md
-[development-environment]:guides/development-environment.md
-[dot-env]:https://github.com/codeunion/dotenv-example
-[fundamentals-rff]:https://github.com/codeunion/feedback-requests-web-fundamentals/issues?state=open
-[git-basics]:guides/Git-Basics.md
 [github-profile]:https://github.com/settings/profile
-[indentation-setttins]:guides/Kitchen-Sink.md#indentation
-[katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
 [omg-trinity-hax]:https://www.youtube.com/watch?v=0TJuipCrjZQ
 [power-shell-wiki]:http://en.wikipedia.org/wiki/Windows_PowerShell
-[request-o-matic]:https://github.com/codeunion/request-o-matic/
 [skillcrush-cli]:http://skillcrush.com/2012/05/25/command-line/
 [ssh-key]:https://help.github.com/articles/generating-ssh-keys
-[syllabus]:syllabus.md
 [terminal-app-wiki]:http://en.wikipedia.org/wiki/Terminal_(OS_X)
 [treehouse-cli-basics]:http://blog.teamtreehouse.com/command-line-basics
-[web-fundamentals-repo]:https://github.com/codeunion/fundamentals-of-web-development
-[web-fundamentals-todos]:https://github.com/codeunion/fundamentals-of-web-development/issues?state=open
-[weekly-katas-repo]:https://github.com/codeunion/web-fundamentals-weekly-katas "Weekly Kata Repo"
 [zed-shaw-cli]:http://cli.learncodethehardway.org/book/
