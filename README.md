@@ -91,7 +91,7 @@ On Mac OS X, you can access the command-line by running [Terminal.app][terminal-
 
 ## Git at CodeUnion
 
-**Important** Please read our [Git Basics guide](guides/Git-Basics.md), which covers the critical aspects of git and GitHub that we'll be using at CodeUnion.
+**Important** Please read our [Git Basics guide][guide-git-basics], which covers the critical aspects of git and GitHub that we'll be using at CodeUnion.
 
 Git and [GitHub](http://github.com) form the foundation for much of CodeUnion's learning experience, so it's critical you become familiar with GitHub, git, and the common workflows we use to interact with each other. In particular, you should understand what the following phrases mean inside and out:
 
