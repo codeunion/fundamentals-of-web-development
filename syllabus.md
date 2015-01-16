@@ -29,6 +29,8 @@ Throughout the entire workshop, attempt to complete as many kata as possible. Re
 
 ## Sprint 1 - Programming Fundamentals
 
+[Go to Sprint 1 home](sprint-1)
+
 Students will get their hands dirty writing Ruby applications that interact with files, websites, and third-party APIs.  Most projects will involve printing out "interesting information" in multiple formats, e.g., text, HTML, CSV, and/or JSON.
 
 The high-level goal is to get students comfortable with the idea of fetching raw data, processing it, and outputting it in a new format.  We want students asking questions like:
@@ -52,16 +54,9 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 - Using a professional text editor
 - Bundler & Gemfiles
 
-### Projects
-
-- [HTML photo gallery generator][photo-gallery-cli]
-- [Text analysis and reporting][text-analysis] (word counts, frequencies, etc.)
-
-### Exercises
-
-- [Series-A Kata][series-A]
-
 ## Sprint 2 - First Web Applications
+
+[Go to Sprint 2 home](sprint-2)
 
 Students will dive into basic database-backed web applications using Sinatra.  This sprint will emphasize wireframes, static mockups, and data modeling.
 
@@ -85,22 +80,9 @@ The high-level goal is to get students comfortable with what it means to write, 
 - Cookies, sessions, and user authentication
 - File uploading and processing
 
-### Projects
-
-- [Social Wall][social-wall]
-- [Wall-B, Message Board][wall-b]
-- [Command Line Twitter Client][twitter-client]
-- [Tweetalyzer][tweetalyzer]
-
-### Exercises
-
-- [Series-B Kata][series-B]
-- [Series-C Kata][series-C]
-- [Sinatra Get Requests][sinatra get requests]
-- [Sinatra Post Requests][sinatra post requests]
-
-
 ## Sprint 3 - Core Patterns in Web Development
+
+[Go to Sprint 3 home](sprint-3)
 
 This sprint will cover several "core patterns" in web development.  
 
@@ -124,59 +106,29 @@ We want students asking questions like:
 - Sending email
 - More complex data models
 
-### Projects
-
-- [Can I Eat Here][can-i-eat-here]
-- [Air Stable][air-stable]
-- [LinkedOut][linkedout]
-
-### Exercises
-
-- [Series D Kata][series-D]
-
 ## Sprint 4 - Capstone Project
+
+[Go to Sprint 4 home](sprint-4)
 
 Students have the option of defining their own project, continuing to work on their project from Sprint 3, or pick up a new project work on.
 
 This is an open-ended sprint. It is a time for students to define what they want to focus on and hone those skills with guidance and feedback.
 
 
-<!-- Projects -->
+<!-- Unused projects -->
 
-[text-analysis]:https://github.com/codeunion/text-analysis
-[photo-gallery-cli]:https://github.com/codeunion/photo-gallery-cli
-[social-wall]:https://github.com/codeunion/social-wall
-[wall-b]:https://github.com/codeunion/wall-b
-[tweetalyzer]:https://github.com/codeunion/tweetalyzer
-[twitter-client]:https://github.com/codeunion/twitter-client
-[air-stable]:https://github.com/codeunion/air-stable
-[can-i-eat-here]:https://github.com/codeunion/can-i-eat-here
-[linkedout]:https://github.com/codeunion/linkedout
-
-<!-- unused -->
 [sinatra-get]:https://github.com/codeunion/sinatra-get
 [sinatra-playground]:https://github.com/codeunion/sinatra-playground
 [sinatra-singing-tweets]:https://github.com/codeunion/sinatra-singing-tweets
 
+<!-- Unused exercises -->
 
-<!-- Exercises -->
-
-[series-A]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-A
-[series-B]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-B
-[series-C]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-C
-[series-D]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-D
-[sinatra post requests]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/sinatra/handling-get-requests
-[sinatra get requests]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/sinatra/handling-get-requests
-
-<!-- unused -->
 [ruby-exercises]:https://github.com/codeunion/ruby-exercises
 [javascript-exercises]:https://github.com/codeunion/javascript-exercises
 [serverside-sinatra-katas]:https://github.com/codeunion/serverside-sinatra-katas
 
+<!-- Unused examples -->
 
-<!-- Examples -->
-
-<!-- unused -->
 [examples-sinatra]:https://github.com/codeunion/examples-sinatra
 [simple-servers]:https://github.com/codeunion/simple-servers
 [yardsale]:https://github.com/codeunion/yardsale
