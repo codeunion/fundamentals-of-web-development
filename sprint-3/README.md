@@ -1,5 +1,14 @@
 # Sprint 3 - Core Patterns in Web Development
 
+### Topics Covered
+
+- AJAX
+- File uploading and processing
+- Background tasks
+- Structured JavaScript
+- Sending email
+- More complex data models
+
 ### Projects
 
 - [Can I Eat Here][can-i-eat-here]

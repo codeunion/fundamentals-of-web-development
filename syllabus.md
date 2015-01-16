@@ -42,18 +42,6 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 - What kind of value does this procedure return?
 - What is an environment in the context of programming?
 
-### Topics Covered
-
-- Data in Ruby (integers, floats, strings, arrays, hashes, et-)
-- Reading and writing files
-- File formats and encoding (text, HTML, CSV, images, et-)
-- Command line arguments and environment variables
-- Interacting with third-party APIs and websites in Ruby
-- Producing web pages (HTML/CSS/JavaScript) with Ruby
-- Git & GitHub
-- Using a professional text editor
-- Bundler & Gemfiles
-
 ## Sprint 2 - First Web Applications
 
 [Go to Sprint 2 home](sprint-2)
@@ -68,17 +56,6 @@ The high-level goal is to get students comfortable with what it means to write, 
 - What is the shape of the data I am working with?
 - Where will I store the data to be managed?
 - How can I inspect the state of this program?
-
-### Topics Covered
-
-- Deploying web applications
-- Web application frameworks
-- Wireframing, interface design, and static mockups in HTML/CSS
-- The HTTP request/response cycle
-- Relational databases and persistence
-- Modeling data (1-many, many-many)
-- Cookies, sessions, and user authentication
-- File uploading and processing
 
 ## Sprint 3 - Core Patterns in Web Development
 
@@ -96,15 +73,6 @@ We want students asking questions like:
 - What is an appropriate design pattern to apply in this context?
 - Where in the codebase should this logic reside?
 - What is the difference in execution context between client and server?
-
-### Topics Covered
-
-- AJAX
-- File uploading and processing
-- Background tasks
-- Structured JavaScript
-- Sending email
-- More complex data models
 
 ## Sprint 4 - Capstone Project
 

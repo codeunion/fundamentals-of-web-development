@@ -1,9 +1,23 @@
 # Sprint 1 - Programming Fundamentals
 
+The first sprint is where we'll be building a base understanding of how programs work. We will focus on building good habits for learning and developing software programs.
+
+### Topics Covered
+
+- Data in Ruby (integers, floats, strings, arrays, hashes, et-)
+- Reading and writing files
+- File formats and encoding (text, HTML, CSV, images, et-)
+- Command line arguments and environment variables
+- Interacting with third-party APIs and websites in Ruby
+- Producing web pages (HTML/CSS/JavaScript) with Ruby
+- Git & GitHub
+- Using a professional text editor
+- Bundler & Gemfiles
+
 ### Projects
 
+- [Text Analysis and Reporting][text-analysis]
 - [HTML Photo Gallery Generator][photo-gallery-cli]
-- [Text Analysis and Reporting][text-analysis] (word counts, frequencies, etc.)
 - [Command-line Twitter Client][twitter-client]
 
 ### Exercises

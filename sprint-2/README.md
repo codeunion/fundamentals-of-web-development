@@ -1,5 +1,16 @@
 # Sprint 2 - First Web Applications
 
+### Topics Covered
+
+- Deploying web applications
+- Web application frameworks
+- Wireframing, interface design, and static mockups in HTML/CSS
+- The HTTP request/response cycle
+- Relational databases and persistence
+- Modeling data (1-many, many-many)
+- Cookies, sessions, and user authentication
+- File uploading and processing
+
 ### Projects
 
 - [Social Wall][social-wall]
