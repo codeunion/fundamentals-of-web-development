@@ -24,6 +24,37 @@ The first sprint is where we'll be building a base understanding of how programs
 
 - [Series-A Kata][series-A]
 
+### Guidance
+
+#### What to focus on
+
+The first week serves as a "crash course" in Ruby fundamentals and the overall workflow of our workshop.  In order of importance, you should be focusing on:
+
+1. Getting code reviews and feedback from your teachers
+1. Getting code reviews and feedback from your teachers
+1. Getting code reviews and feedback from your teachers (sensing a pattern?)
+1. Developing good habits with the tools you'll be using every day, especially Sublime Text, the command line, and GitHub.
+1. Understanding the programming fundamentals via Ruby, particularly
+  - **Data and Basic Data Types**
+    - Variables and variable assignment
+    - Numbers, strings, booleans, `nil`
+    - Arrays (`[1,2,3]`), Hashes (`{:name => "Jesse", :age => 30}`)
+  - **Essential Program Flow / Control**
+    - Branching (`if`, `else`)
+    - Looping & iteration (`list.each do |item| ... end`)
+    - Defining, calling, and returning from methods (`def my_method(a,b,c) ... end`)
+
+#### What to ignore
+
+You might feel compelled to focus on some or all of the following.  Don't!
+
+- Code performance, e.g., "Can I make this faster?"
+- Code elegance or cleverness
+- What your teachers will "think of you" when they see your code
+- How your work will compare to your fellow students'
+
+We know this is easier said than done, so use this list as a check for when you find yourself stalling.  Are you hung up because you're worried about one of the above?
+
 <!-- Projects -->
 
 [text-analysis]:https://github.com/codeunion/text-analysis
