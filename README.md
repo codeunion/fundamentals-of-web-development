@@ -4,6 +4,7 @@ Welcome to CodeUnion's *Fundamentals of Web Development* workshop.  If you're re
 
 ## Contents
 
+1. [Navigating this Repo](#navigating-this-repo)
 1. [The On Boarding](#the-on-boarding)
 1. [Your Development Environment](#your-development-environment)
 1. [The Command Line](#the-command-line)
@@ -16,6 +17,20 @@ Welcome to CodeUnion's *Fundamentals of Web Development* workshop.  If you're re
 1. [Code Katas](#code-katas)
 1. [Group Sessions](#group-sessions)
 1. [Office Hours](#office-hours)
+
+## Navigating this Repo
+
+```
+guides/             # Helpful explanations on various topics
+session-notes/      # Notes from live sessions
+communications.md   # How to reach instructors and other students
+sprint-1/           # Instructions for Sprint 1 (weeks 1-2)
+sprint-2/           # Instructions for Sprint 2 (weeks 3-4)
+sprint-3/           # Instructions for Sprint 3 (weeks 5-6)
+sprint-4/           # Instructions for Sprint 4 (weeks 7-8)
+README.md           # You are here. :)
+syllabus.md         # High-level overview of the workshop
+```
 
 ## The On Boarding
 
