@@ -17,7 +17,25 @@
 
 ### Exercises
 
-- [Series D Kata][series-D]
+#### Ruby
+
+Complete the following exercises (in order) from the [Ruby Exercises][ruby-exercises] repository.
+
+We _do not_ expect students to complete every exercise every week, but you should be attempting as many as you can. **Remember**, the top priority is getting feedback from us, even if your code is incomplete.
+
+1. person.rb
+1. person_notes.rb
+1. die.rb
+1. die_sides.rb
+1. die_labels.rb
+1. board.rb
+1. hot_or_cold.rb
+
+#### Sinatra
+
+Complete the following exercises (in order) from the [Sinatra Exercises][sinatra-exercises] repository.
+
+1. Sinatra Katas
 
 <!-- Projects -->
 
@@ -27,4 +45,5 @@
 
 <!-- Exercises -->
 
-[series-D]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-D
+[ruby-exercises]:https://github.com/codeunion/ruby-exercises
+[sinatra-exercises]:https://github.com/codeunion/sinatra-exercises

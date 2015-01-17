@@ -22,7 +22,24 @@ The first sprint is where we'll be building a base understanding of how programs
 
 ### Exercises
 
-- [Series-A Kata][series-A]
+Complete the following exercises (in order) from the [Ruby Exercises][ruby-exercises] repository.
+
+We _do not_ expect students to complete every exercise every week, but you should be attempting as many as you can. **Remember**, the top priority is getting feedback from us, even if your code is incomplete.
+
+1. max.rb
+1. min.rb
+1. longest_string.rb
+1. shortest_string.rb
+1. word_count.rb
+1. count_in_list.rb
+1. count_max.rb
+1. sum.rb
+1. mean.rb
+1. print_square.rb
+1. print_triangle.rb
+1. print_pyramid.rb
+1. print_horizontal_pyramid.rb
+1. hot_or_cold.rb
 
 ### Guidance
 
@@ -63,4 +80,4 @@ We know this is easier said than done, so use this list as a check for when you 
 
 <!-- Exercises -->
 
-[series-A]:https://github.com/codeunion/web-fundamentals-weekly-katas/tree/master/series-A
+[ruby-exercises]:https://github.com/codeunion/ruby-exercises

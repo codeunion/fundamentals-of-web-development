@@ -14,7 +14,7 @@ Welcome to CodeUnion's *Fundamentals of Web Development* workshop.  If you're re
 1. [We expect that students will...](#we-expect-that-students-will)
 1. [Weekly Rhythm](#weekly-rhythm)
 1. [Projects](#projects)
-1. [Code Katas](#code-katas)
+1. [Exercises](#code-exercises)
 1. [Group Sessions](#group-sessions)
 1. [Office Hours](#office-hours)
 
@@ -134,13 +134,13 @@ Early on in the workshop we'll be the one defining and scoping the projects for 
 
 Every student should aim to complete *at least* one project per week.  If a project isn't on track, there's probably a problem with the project's scope that should be addressed ASAP!  Ask us for feedback. :)
 
-### [Code Katas][katas]
+### Exercises
 
-We'll also release a new collection of **code katas** each week in the [weekly-katas repository][katas].  A code kata is a small, self-contained exercise designed to complement the concepts you'll need to work on your projects for that week.  They're named after a common [training technique](http://en.wikipedia.org/wiki/Kata) found in many Japanese martial arts like karate, judo, and aikido.
+A code exercise is a small, self-contained exercise designed to complement the concepts you'll need to work on your projects for that week.
 
-Most of our katas are designed be completed in less than an hour by someone with appropriate prior knowledge. Our goal is preparing these katas is not to ensure that you "get them right," but to establish well-calibrated and productive code→feedback→refactor loop.
+Most of our exercises are designed be completed in less than an hour by someone with appropriate prior knowledge. Our goal is preparing these exercises is not to ensure that you "get them right," but to establish well-calibrated and productive code→feedback→refactor loop.
 
-We *do not* expect students to complete every kata every week, but you should attempt as many as you can. They're also perfect for revisiting later.
+We _do not_ expect students to complete every exercise every week, but you should be attempting as many as you can. **Remember**, the top priority is getting feedback from us, even if your code is incomplete. They're also perfect for revisiting later.
 
 ### Group Sessions
 
@@ -163,7 +163,6 @@ That means: **come prepared**.
 
 <!-- Repos -->
 
-[katas]:https://github.com/codeunion/web-fundamentals-weekly-katas
 [dot-env]:https://github.com/codeunion/dotenv-example
 [request-o-matic]:https://github.com/codeunion/request-o-matic/
 

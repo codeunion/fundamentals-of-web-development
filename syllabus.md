@@ -11,7 +11,7 @@ Each sprint is 2 weeks long.
 
 Each sprint, think about picking one of the example projects and working on it to feature completion.
 
-Throughout the entire workshop, attempt to complete as many kata as possible. Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
+Throughout the entire workshop, attempt to complete as many exercises as possible. Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
 
 ## Learning Goals
 
@@ -91,9 +91,7 @@ This is an open-ended sprint. It is a time for students to define what they want
 
 <!-- Unused exercises -->
 
-[ruby-exercises]:https://github.com/codeunion/ruby-exercises
 [javascript-exercises]:https://github.com/codeunion/javascript-exercises
-[serverside-sinatra-katas]:https://github.com/codeunion/serverside-sinatra-katas
 
 <!-- Unused examples -->
 
