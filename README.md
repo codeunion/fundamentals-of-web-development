@@ -142,6 +142,14 @@ Most of our exercises are designed be completed in less than an hour by someone 
 
 We _do not_ expect students to complete every exercise every week, but you should be attempting as many as you can. **Remember**, the top priority is getting feedback from us, even if your code is incomplete. They're also perfect for revisiting later.
 
+### Examples
+
+Examples are a great way to learn. Often times just _reading_ or being _told_ how something works is not enough: we need examples to provide tangibility and context.
+
+As much as we can, we try to provide example code for the concepts covered in the coures. Often times these examples are instructors' implementations of projects and exercises.
+
+Use them to learn from. Poke at them. Ask questions. Try things out and break them.
+
 ### Group Sessions
 
 We have two, **2-hour group sessions** every week.  The schedule is determined by the teachers and students in that workshop based upon their respective availability.
