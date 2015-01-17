@@ -4,9 +4,9 @@ The first sprint is where we'll be building a base understanding of how programs
 
 ### Topics Covered
 
-- Data in Ruby (integers, floats, strings, arrays, hashes, et-)
+- Data in Ruby (integers, floats, strings, arrays, hashes, etc.)
 - Reading and writing files
-- File formats and encoding (text, HTML, CSV, images, et-)
+- File formats and encoding (text, HTML, CSV, images, etc.)
 - Command line arguments and environment variables
 - Interacting with third-party APIs and websites in Ruby
 - Producing web pages (HTML/CSS/JavaScript) with Ruby
