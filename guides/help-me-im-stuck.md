@@ -8,11 +8,11 @@ What decision making patterns will help you out of the cave?
 
 Luckily computer programming isn't really like this, but sometimes, it can feel like it.
 
-When I was on active duty as an officer in the US Navy, I spent a lot of time learning to combat fires and went to many schools to learn this.  One thing that many people outside the military think is that in times of emergency, military people come up with special solutions and courage.  Actually, except for very infrequent circumstances, this is not how things happen.  In times of great peril, people revert back to the training patterns they have learned and internalized at a pre-cognitive level.  
+When I was on active duty as an officer in the US Navy, I spent a lot of time learning to combat fires and went to many schools to learn this. One thing that many people outside the military think is that in times of emergency, military people come up with special solutions and courage. Actually, except for very infrequent circumstances, this is not how things happen. In times of great peril, people revert back to the training patterns they have learned and internalized at a pre-cognitive level. 
 
 In plain speak, this means that people use the decision making patterns that they don't have to think about.
 
-Luckily in computer programming, we have some patterns that we can internalize.  These patterns will help us when we are confronted with something we don't know how to deal with.  In fact, the faster you, the developer internalize these behaviors, the funner programming will be.
+Luckily in computer programming, we have some patterns that we can internalize. These patterns will help us when we are confronted with something we don't know how to deal with. In fact, the faster you, the developer internalize these behaviors, the funner programming will be.
 
 
 ### **"Fallback Patterns of Problem Solving"**

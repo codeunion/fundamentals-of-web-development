@@ -45,7 +45,7 @@ We _do not_ expect students to complete every exercise every week, but you shoul
 
 #### What to focus on
 
-The first week serves as a "crash course" in Ruby fundamentals and the overall workflow of our workshop.  In order of importance, you should be focusing on:
+The first week serves as a "crash course" in Ruby fundamentals and the overall workflow of our workshop. In order of importance, you should be focusing on:
 
 1. Getting code reviews and feedback from your teachers
 1. Getting code reviews and feedback from your teachers
@@ -63,14 +63,14 @@ The first week serves as a "crash course" in Ruby fundamentals and the overall w
 
 #### What to ignore
 
-You might feel compelled to focus on some or all of the following.  Don't!
+You might feel compelled to focus on some or all of the following. Don't!
 
 - Code performance, e.g., "Can I make this faster?"
 - Code elegance or cleverness
 - What your teachers will "think of you" when they see your code
 - How your work will compare to your fellow students'
 
-We know this is easier said than done, so use this list as a check for when you find yourself stalling.  Are you hung up because you're worried about one of the above?
+We know this is easier said than done, so use this list as a check for when you find yourself stalling. Are you hung up because you're worried about one of the above?
 
 <!-- Projects -->
 

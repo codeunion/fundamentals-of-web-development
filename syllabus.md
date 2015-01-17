@@ -11,7 +11,7 @@ Each sprint is 2 weeks long.
 
 Each sprint, think about picking one of the example projects and working on it to feature completion.
 
-Throughout the entire workshop, attempt to complete as many exercises as possible. Remember to request feedback code as frequently as possible.  Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
+Throughout the entire workshop, attempt to complete as many exercises as possible. Remember to request feedback code as frequently as possible. Make small frequent commits and ask for regular feedback. If someone hasn't responded to your code within 24 hours, make a specific inquiry.
 
 ## Learning Goals
 
@@ -31,9 +31,9 @@ Throughout the entire workshop, attempt to complete as many exercises as possibl
 
 [Go to Sprint 1 home](sprint-1)
 
-Students will get their hands dirty writing Ruby applications that interact with files, websites, and third-party APIs.  Most projects will involve printing out "interesting information" in multiple formats, e.g., text, HTML, CSV, and/or JSON.
+Students will get their hands dirty writing Ruby applications that interact with files, websites, and third-party APIs. Most projects will involve printing out "interesting information" in multiple formats, e.g., text, HTML, CSV, and/or JSON.
 
-The high-level goal is to get students comfortable with the idea of fetching raw data, processing it, and outputting it in a new format.  We want students asking questions like:
+The high-level goal is to get students comfortable with the idea of fetching raw data, processing it, and outputting it in a new format. We want students asking questions like:
 
 - Where does the data I want live?
 - How do I get that data?
@@ -46,7 +46,7 @@ The high-level goal is to get students comfortable with the idea of fetching raw
 
 [Go to Sprint 2 home](sprint-2)
 
-Students will dive into basic database-backed web applications using Sinatra.  This sprint will emphasize wireframes, static mockups, and data modeling.
+Students will dive into basic database-backed web applications using Sinatra. This sprint will emphasize wireframes, static mockups, and data modeling.
 
 The high-level goal is to get students comfortable with what it means to write, deploy, and debug a web application. We want students asking questions like:
 
@@ -61,7 +61,7 @@ The high-level goal is to get students comfortable with what it means to write, 
 
 [Go to Sprint 3 home](sprint-3)
 
-This sprint will cover several "core patterns" in web development.  
+This sprint will cover several "core patterns" in web development.
 
 Students will have the choice of defining their own project to work on, if they want.
 

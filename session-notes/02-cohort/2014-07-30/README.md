@@ -8,7 +8,7 @@ Welcome aboard!
 
 Both session covered basically the same material during the first hour.
 
-This class was split in two.   The first hour began with introductions, after which John got on his soap box and shared some of his hopes and expectations for the next Web Fundamentals workshop.
+This class was split in two.  The first hour began with introductions, after which John got on his soap box and shared some of his hopes and expectations for the next Web Fundamentals workshop.
 
 **The Goal**
 
@@ -34,7 +34,7 @@ Be mindful of your environment and the potential impact it has on others.
 
 Class materials will be distributed periodically through the [CU GitHib](https://github.com/codeunion) repository. In addition, John or Jesse will send out To-do’s that, like most things at CU, aren’t mandatory but encouraged.
 
-Learning how to develop software is an amalgamation of reading, writing and a little bit of arithmetic.  Reading for comprehension, whether documentation, tutorials, posts, or actual code, is important.
+Learning how to develop software is an amalgamation of reading, writing and a little bit of arithmetic. Reading for comprehension, whether documentation, tutorials, posts, or actual code, is important.
 
 Writing code, requesting and receiving feedback is key to learning how to program.
 
@@ -47,25 +47,25 @@ Tasks assigned to students can be viewed in the [**issues**](https://github.com/
 
 **Blogging**
 
-Setting up and maintaining an online journal is a useful way to find, explore and articulate your own understanding of a given topic.  It also serves as a way for others (John or Jesse) to gage how well you know it and, potentially, provide advice or support when needed.
+Setting up and maintaining an online journal is a useful way to find, explore and articulate your own understanding of a given topic. It also serves as a way for others (John or Jesse) to gage how well you know it and, potentially, provide advice or support when needed.
 
-It doesn’t have to be fancy or complicated.  If you want to try to set up a Jekyll site and deploy via GitHub Pages, great, but [Tumblr](https://www.tumblr.com), [Medium](https://medium.com), [Blogger](http://blogger.com) are all perfectly fine, too.  The important part of blogging is giving CodeUnion leaders the opportunity to hear a student's personal voice and understanding of a given topic.
+It doesn’t have to be fancy or complicated. If you want to try to set up a Jekyll site and deploy via GitHub Pages, great, but [Tumblr](https://www.tumblr.com), [Medium](https://medium.com), [Blogger](http://blogger.com) are all perfectly fine, too. The important part of blogging is giving CodeUnion leaders the opportunity to hear a student's personal voice and understanding of a given topic.
 
 **Random**
 
-There was some discussion about what constitutes a [web applications](http://en.wikipedia.org/wiki/Web_application) and what’s meant by the terms client and server.  A simple way to think about them is clients request, servers provide. Web browsers and a local mobile app are typically viewed as the clients while the services they connect to, the servers.
+There was some discussion about what constitutes a [web applications](http://en.wikipedia.org/wiki/Web_application) and what’s meant by the terms client and server. A simple way to think about them is clients request, servers provide. Web browsers and a local mobile app are typically viewed as the clients while the services they connect to, the servers.
 
 
 #### Second Hour
 
 **First Session**
 
-During the second hour, the folks in the first session reviewed the [Text Analysis](https://github.com/codeunion/text-analysis/) project.  Scott volunteered to act as the guinea pig.  With John’s assistance he forked and then cloned the repo to his machine.  The class spent time reviewing the documentation in the README and on the [Wiki](https://github.com/codeunion/text-analysis/wiki/Iterations) page to gain an understanding of the expected outcomes.  They then dove into Sublime Text and talked about the first iteration and what was needed to implement the basic count statistics.
+During the second hour, the folks in the first session reviewed the [Text Analysis](https://github.com/codeunion/text-analysis/) project. Scott volunteered to act as the guinea pig. With John’s assistance he forked and then cloned the repo to his machine. The class spent time reviewing the documentation in the README and on the [Wiki](https://github.com/codeunion/text-analysis/wiki/Iterations) page to gain an understanding of the expected outcomes. They then dove into Sublime Text and talked about the first iteration and what was needed to implement the basic count statistics.
 They wrote a little bit of [**_pseudocode_**](../../../guides/Problem-Solving-in-Ruby.md), a basic, high level description, of the problem and steps that might be needed to solve it.
 
 **Second Session**
 
-The second session spent time working with Git.  Kevin posed a great question about tracking and verifying changes to a file or repo. Using one of his own repositories, the class walked through the process of;
+The second session spent time working with Git. Kevin posed a great question about tracking and verifying changes to a file or repo. Using one of his own repositories, the class walked through the process of;
 
 
 ### Git Resources http://git-scm.com/

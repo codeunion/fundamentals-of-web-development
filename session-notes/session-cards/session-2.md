@@ -1,4 +1,4 @@
-This session represents a decently sensitive moment for students.  For the most part, at this point in the workshop, students have mostly on boarded themselves and gotten their tools working.  It is a sensitive session because they are usually pretty exicted but mostly still very unclear how to attack complex(ish) problems, note that [text analysis][text analysis] is a decently complex project for a real beginner.
+This session represents a decently sensitive moment for students. For the most part, at this point in the workshop, students have mostly on boarded themselves and gotten their tools working. It is a sensitive session because they are usually pretty exicted but mostly still very unclear how to attack complex(ish) problems, note that [text analysis][text analysis] is a decently complex project for a real beginner.
 
 The overall structure of Session #2 needs to be focusing on;
 

@@ -1,7 +1,7 @@
 # Session: Web Fundamentals
 ### Saturday, August 16
 
-I'll be in around 12:05PM Pacific.  In the meantime, write down any questions, concerns, confusions, though, or whatever else you might have.  They can be as vague or as specific as you'd like.
+I'll be in around 12:05PM Pacific. In the meantime, write down any questions, concerns, confusions, though, or whatever else you might have. They can be as vague or as specific as you'd like.
 
 For example, your question could just be, "Persistence - WTF?"
 
@@ -15,17 +15,17 @@ For example, your question could just be, "Persistence - WTF?"
 6. 
 
 ## The important thing to remember:
-1.  We NEED persistence so our web application can remember information
-    between requests.  Typically, we "persist" data in a relational database
-    like SQLite, MySQL, or PostgreSQL.  We can persist it anywhere, though,
+1. We NEED persistence so our web application can remember information
+    between requests. Typically, we "persist" data in a relational database
+    like SQLite, MySQL, or PostgreSQL. We can persist it anywhere, though,
     including a plain text file.
 
-2.  Web applications are a fancy way of generating HTML documents on the fly.
+2. Web applications are a fancy way of generating HTML documents on the fly.
     Typically, they're generated based on dynamic data supplied by the user,
     either in the current request or from their past requests (which we have
     information about because we persisted data from those past requests)
 
-3.  HTTP request really had two parts: (http_method, URL). The method is
+3. HTTP request really had two parts: (http_method, URL). The method is
     sometimes called the "verb."
 
     ```text
@@ -53,7 +53,7 @@ For example, your question could just be, "Persistence - WTF?"
 
 ### What is a method and why do we care about them?
 
-Also called a "function."  It's something in the code that acts on an input and returns a value (from that input).  That act on that input is whatever the person who wrote the method decided it to be.  We care about them because it's one of the core parts of a program.
+Also called a "function."  It's something in the code that acts on an input and returns a value (from that input). That act on that input is whatever the person who wrote the method decided it to be. We care about them because it's one of the core parts of a program.
 
 A method is something that completes a task.
 
@@ -61,13 +61,13 @@ You can define a method once and call it in multiple places, so you don't have t
 
 ### What is a web page and why do we care about them?
 
-A web page is static information that is displayed on a web browser.  That information is stored somewhere on a server.  It's important because that's how we communicate with the user.
+A web page is static information that is displayed on a web browser. That information is stored somewhere on a server. It's important because that's how we communicate with the user.
 
 A web page is no different than your local program on your machine (e.g., your email client, Microsoft word, etc.), but it grabs it from a server instead of your machine.
 
 ### What is a web application and why do we care about them?
 
-It is a series of documents or web pages or programs that can be running on a server (but aren't necessarily).  We care about them because in order to do more and more complex things we need something like web applications.
+It is a series of documents or web pages or programs that can be running on a server (but aren't necessarily). We care about them because in order to do more and more complex things we need something like web applications.
 
 An application is a way that we can interact with the user.
 

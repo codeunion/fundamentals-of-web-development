@@ -1,8 +1,8 @@
 # Requesting Feedback on Code
 
-Ahhh, feedback, the lifeblood of CodeUnion's ability make sure everyone progresses.  
+Ahhh, feedback, the lifeblood of CodeUnion's ability make sure everyone progresses. 
 
-Asking for, giving and receiving actionable feedback are all learned skills.  Ask for feedback on small amounts of code, provide context whenever necessary.
+Asking for, giving and receiving actionable feedback are all learned skills. Ask for feedback on small amounts of code, provide context whenever necessary.
 
 1. Familiarize yourself with [request-o-matic][request-o-matic]
 

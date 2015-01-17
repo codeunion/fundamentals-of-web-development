@@ -1,6 +1,6 @@
 # the ```kitchen sink```
 
-A place where we can put hopefully useful content that may or may not have a structural home yet.  we'll post things here in a hap-hazard fashion to give ya'll access to them before we figure out exactly what to do with it.
+A place where we can put hopefully useful content that may or may not have a structural home yet. we'll post things here in a hap-hazard fashion to give ya'll access to them before we figure out exactly what to do with it.
 
 
 ## ruby iteration using ```for element in elements```
@@ -32,7 +32,7 @@ http://guides.rubygems.org/make-your-own-gem/
 ### Make Sure you get your indentation set!
 
 
-Ruby coders expect code to use indentation settings based on 'soft-tabs'.  'Soft-tabs' means that a tab character is translated to two spaces.  It is difficult to control for how to attain this state with all coding editors but the below screenshots demonstrate the how to attain this state with Sublime Text 3. :thumbsup:
+Ruby coders expect code to use indentation settings based on 'soft-tabs'. 'Soft-tabs' means that a tab character is translated to two spaces. It is difficult to control for how to attain this state with all coding editors but the below screenshots demonstrate the how to attain this state with Sublime Text 3. :thumbsup:
 
 You can use the handy `Spaces` dialogue tab in any normal Sublime window pane like the below.
 
@@ -51,7 +51,7 @@ Which will open a file that looks like:
 
 ![http://cl.ly/image/1n173E3Y242F/Image%202014-08-06%20at%2011.35.49%20AM.png](http://cl.ly/image/1n173E3Y242F/Image%202014-08-06%20at%2011.35.49%20AM.png)
 
-You want to make sure your `Preferences.sublime-settings` file has at least the below lines.  It may have other stuff too, that is fine.
+You want to make sure your `Preferences.sublime-settings` file has at least the below lines. It may have other stuff too, that is fine.
 
 ```json
 {

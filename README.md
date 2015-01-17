@@ -1,6 +1,6 @@
 # Fundamentals of Web Development
 
-Welcome to CodeUnion's *Fundamentals of Web Development* workshop.  If you're reading this, it means you've decided to take a bit of a risk with us. We appreciate that and promise to reward you with a fun, rewarding, and positive learning experience.
+Welcome to CodeUnion's *Fundamentals of Web Development* workshop. If you're reading this, it means you've decided to take a bit of a risk with us. We appreciate that and promise to reward you with a fun, rewarding, and positive learning experience.
 
 ## Contents
 
@@ -34,10 +34,10 @@ syllabus.md         # High-level overview of the workshop
 
 ## The On Boarding
 
-The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development.  A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
+The On Boarding phase will ensure your technical environment functions appropriately. It will build your understanding of our code feedback cycle and it will begin your introduction to the concepts and tools that define web development. A solid foundation and clear understanding of CodeUnion during the On Boarding phase will help you acclimate to our system of building technical skills.
 
 
-On Boarding involves a decent amount of 'grunt work'.  The work might seem chunky, unclear and overly complicated.  It is unclear, chunky and overly complicated.  We will help you with everything.  Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand.  Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
+On Boarding involves a decent amount of 'grunt work'. The work might seem chunky, unclear and overly complicated. It is unclear, chunky and overly complicated. We will help you with everything. Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand. Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
 
 ### On Boarding Tasks, Please complete in order.
 
@@ -59,7 +59,7 @@ On Boarding involves a decent amount of 'grunt work'.  The work might seem chunk
 1. Get started with [Sprint 1][sprint-1]
   - Don't forget to ask for feedback!
 
-You have successfully on boarded when you complete the above tasks and begin making requests for feedback on your code.  Completing the on boarding phase by the first day of your workshop will really help maximize your coding momentum.  That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
+You have successfully on boarded when you complete the above tasks and begin making requests for feedback on your code. Completing the on boarding phase by the first day of your workshop will really help maximize your coding momentum. That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
 **Useful longterm learnings**
 
@@ -78,9 +78,9 @@ Before you start anything, make sure you have your local development environment
 
 ## The Command Line
 
-The **command line** is that scary-seeming, all-text interface you often [see in movies][omg-trinity-hax] and [vintage computer ads][apple-ii-ad]. We've come a long way since then.  After your text editor, most of your development time will be spent on the command line.  In fact, according to [RescueTime](https://www.rescuetime.com), Jesse spent 23% of all his software development time in 2014 there.
+The **command line** is that scary-seeming, all-text interface you often [see in movies][omg-trinity-hax] and [vintage computer ads][apple-ii-ad]. We've come a long way since then. After your text editor, most of your development time will be spent on the command line. In fact, according to [RescueTime](https://www.rescuetime.com), Jesse spent 23% of all his software development time in 2014 there.
 
-To start, you only need to understand a few basic commands.  Here are some resources:
+To start, you only need to understand a few basic commands. Here are some resources:
 
 1. Skillcrush's [Command Line Overview][skillcrush-cli]
 1. CodeUnion's [Command Line Essentials](guides/Command-Line-Essentials.md)
@@ -100,7 +100,7 @@ Git and [GitHub](http://github.com) form the foundation for much of CodeUnion's 
 1. Forking a repository on GitHub
 1. Commiting code and pushing it to a repository on GitHub
 
-We expect much of the first week to involve getting students comfortable with git and GitHub.  If you're looking for more material, we recommend:
+We expect much of the first week to involve getting students comfortable with git and GitHub. If you're looking for more material, we recommend:
 * [Four videos about git](http://git-scm.com/videos) from the creators and maintainers of git
 * CodeSchool's *[Try Git][codeschool-try-git]* mini-course
 
@@ -120,19 +120,19 @@ We expect much of the first week to involve getting students comfortable with gi
 1. Clearly communicate expectations and inform teachers when those expectations aren't being met.
 1. Treat their teachers and fellow students with respect and be sensitive to differences in background, life circumstances, and culture.
 
-Consider these expectations binding.  If you, as a student, feel we're not living up to our end of the bargain, you should feel comfortable pointing it out and expect a grateful, gracious, and honest response.
+Consider these expectations binding. If you, as a student, feel we're not living up to our end of the bargain, you should feel comfortable pointing it out and expect a grateful, gracious, and honest response.
 
 ## Weekly Rhythm
 
-The workshop is 8 weeks long and it's critical to establish a consistent weekly rhythm.  These are the key moving parts for every week, each built around giving and receiving different flavors of feedback from teachers and fellow students.
+The workshop is 8 weeks long and it's critical to establish a consistent weekly rhythm. These are the key moving parts for every week, each built around giving and receiving different flavors of feedback from teachers and fellow students.
 
 ### Projects
 
-The "spinal cord" of the workshop is a collection of weekly projects, starting from basic command-line Ruby applications to proper, hosted-on-a-server web applications.  Even if what the projects do is simple, each one is meant to be "shippable" software.
+The "spinal cord" of the workshop is a collection of weekly projects, starting from basic command-line Ruby applications to proper, hosted-on-a-server web applications. Even if what the projects do is simple, each one is meant to be "shippable" software.
 
-Early on in the workshop we'll be the one defining and scoping the projects for you.  As the workshop progresses, you'll be working on projects of your own choosing.
+Early on in the workshop we'll be the one defining and scoping the projects for you. As the workshop progresses, you'll be working on projects of your own choosing.
 
-Every student should aim to complete *at least* one project per week.  If a project isn't on track, there's probably a problem with the project's scope that should be addressed ASAP!  Ask us for feedback. :)
+Every student should aim to complete *at least* one project per week. If a project isn't on track, there's probably a problem with the project's scope that should be addressed ASAP!  Ask us for feedback. :)
 
 ### Exercises
 
@@ -152,7 +152,7 @@ Use them to learn from. Poke at them. Ask questions. Try things out and break th
 
 ### Group Sessions
 
-We have two, **2-hour group sessions** every week.  The schedule is determined by the teachers and students in that workshop based upon their respective availability.
+We have two, **2-hour group sessions** every week. The schedule is determined by the teachers and students in that workshop based upon their respective availability.
 
 Although there might be lecture-like material in some of these sessions, the main goal is to help students through shared problems and practice skills that are only easily practiced in the presence of a teacher, e.g., learning how your teacher would tackle a problem you've been struggling with.
 

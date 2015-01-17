@@ -2,7 +2,7 @@
 
 Session 1 completed the bulk of the drills and spent the bulk of its time working from a basic counter that can't keep track of anything between web requests to a sqlite db that had a ClickCounter object.
 
-Session 2 didn't cover drills, spent a good amount of time working through confusions around how to create client side html forms that would submit to an endpoint and began the discussion around persistence.  Session 2 covered the basic counter but did not get to a funcioning db.
+Session 2 didn't cover drills, spent a good amount of time working through confusions around how to create client side html forms that would submit to an endpoint and began the discussion around persistence. Session 2 covered the basic counter but did not get to a funcioning db.
 
 ### drills
 
