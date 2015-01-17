@@ -37,6 +37,14 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 
 1. Sinatra Katas
 
+### Examples
+
+Use these examples to bolster your understanding.
+
+1. [Yardsale][yardsale] (Craigslist clone)
+1. [Examples: Sinatra][examples-sinatra] (common web development patterns implemented in Sinatra)
+1. [LinkedOut - Example][linkedout-example]
+
 <!-- Projects -->
 
 [air-stable]:https://github.com/codeunion/air-stable
@@ -47,3 +55,9 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 
 [ruby-exercises]:https://github.com/codeunion/ruby-exercises
 [sinatra-exercises]:https://github.com/codeunion/sinatra-exercises
+
+<!-- Examples -->
+
+[yardsale]:https://github.com/codeunion/yardsale
+[examples-sinatra]:https://github.com/codeunion/examples-sinatra
+[linkedout-example]:https://github.com/codeunion/linkedout-example

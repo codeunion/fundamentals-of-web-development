@@ -92,11 +92,3 @@ This is an open-ended sprint. It is a time for students to define what they want
 <!-- Unused exercises -->
 
 [javascript-exercises]:https://github.com/codeunion/javascript-exercises
-
-<!-- Unused examples -->
-
-[examples-sinatra]:https://github.com/codeunion/examples-sinatra
-[simple-servers]:https://github.com/codeunion/simple-servers
-[yardsale]:https://github.com/codeunion/yardsale
-[overheard-server]:https://github.com/codeunion/overheard-server
-[linkedout-example]:https://github.com/codeunion/linkedout-example

@@ -50,6 +50,13 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 1. Sinatra Get Requests
 1. Sinatra Post Requests
 
+### Examples
+
+Use these examples to bolster your understanding.
+
+1. [Simple Servers][simple-servers]
+1. [Overheard Server][overheard-server]
+
 <!-- Projects -->
 
 [social-wall]:https://github.com/codeunion/social-wall
@@ -60,3 +67,8 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 
 [ruby-exercises]:https://github.com/codeunion/ruby-exercises
 [sinatra-exercises]:https://github.com/codeunion/sinatra-exercises
+
+<!-- Examples -->
+
+[simple-servers]:https://github.com/codeunion/simple-servers
+[overheard-server]:https://github.com/codeunion/overheard-server
