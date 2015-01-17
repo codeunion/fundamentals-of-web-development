@@ -126,7 +126,7 @@ Consider these expectations binding. If you, as a student, feel we're not living
 
 ## Weekly Rhythm
 
-The workshop is 8 weeks long and it's critical to establish a consistent weekly rhythm. These are the key moving parts for every week, each built around giving and receiving different flavors of feedback from teachers and fellow students.
+The workshop is 8 weeks long and it's critical to establish a consistent weekly rhythm. These are the key moving parts for every two-week sprint, each built around giving and receiving different flavors of feedback from teachers and fellow students.
 
 ### Projects
 
