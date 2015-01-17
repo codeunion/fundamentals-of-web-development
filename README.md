@@ -6,17 +6,18 @@ Welcome to CodeUnion's *Fundamentals of Web Development* workshop. If you're rea
 
 1. [Navigating this Repo](#navigating-this-repo)
 1. [The On Boarding](#the-on-boarding)
+  1. [On Boarding Tasks](#on-boarding-tasks)
 1. [Your Development Environment](#your-development-environment)
-1. [The Command Line](#the-command-line)
-1. [Git at CodeUnion](#git-at-codeunion)
+  1. [The Command Line](#the-command-line)
+  1. [Git at CodeUnion](#git-at-codeunion)
 1. [Expectations](#expectations)
-1. [Students should expect that teachers will...](#students-should-expect-that-teachers-will)
-1. [We expect that students will...](#we-expect-that-students-will)
+  1. [Students should expect that teachers will...](#students-should-expect-that-teachers-will)
+  1. [We expect that students will...](#we-expect-that-students-will)
 1. [Weekly Rhythm](#weekly-rhythm)
-1. [Projects](#projects)
-1. [Exercises](#code-exercises)
-1. [Group Sessions](#group-sessions)
-1. [Office Hours](#office-hours)
+  1. [Projects](#projects)
+  1. [Exercises](#exercises)
+  1. [Examples](#examples)
+  1. [Group Sessions](#group-sessions)
 
 ## Navigating this Repo
 
@@ -39,7 +40,9 @@ The On Boarding phase will ensure your technical environment functions appropria
 
 On Boarding involves a decent amount of 'grunt work'. The work might seem chunky, unclear and overly complicated. It is unclear, chunky and overly complicated. We will help you with everything. Your job is to dive into the pool without hesitation and ask us everytime you encounter a step, task, turn, juke or jive that you can't deal with or don't understand. Our job is to make sure you are supported and that you can finish the onboarding phase in a timely fashion.
 
-### On Boarding Tasks, Please complete in order.
+### On Boarding Tasks
+
+**Please complete in order.**
 
 1. Read and digest the [syllabus][syllabus].
 1. Read and digest [communications and help][communications-and-help].
@@ -76,7 +79,7 @@ You have successfully on boarded when you complete the above tasks and begin mak
 
 Before you start anything, make sure you have your local development environment up and running correctly by going through our [guide to setting up and verifying your development environment][guide-development-environment]
 
-## The Command Line
+### The Command Line
 
 The **command line** is that scary-seeming, all-text interface you often [see in movies][omg-trinity-hax] and [vintage computer ads][apple-ii-ad]. We've come a long way since then. After your text editor, most of your development time will be spent on the command line. In fact, according to [RescueTime](https://www.rescuetime.com), Jesse spent 23% of all his software development time in 2014 there.
 
@@ -89,7 +92,7 @@ To start, you only need to understand a few basic commands. Here are some resour
 
 On Mac OS X, you can access the command-line by running [Terminal.app][terminal-app-wiki]. On Windows, you can access it by running [Windows PowerShell][power-shell-wiki].
 
-## Git at CodeUnion
+### Git at CodeUnion
 
 **Important** Please read our [Git Basics guide][guide-git-basics], which covers the critical aspects of git and GitHub that we'll be using at CodeUnion.
 
