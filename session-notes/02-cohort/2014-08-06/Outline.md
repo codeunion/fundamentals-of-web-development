@@ -8,7 +8,7 @@
 
 - [ ] need to have a proper twitter api key and some twitter code wired up
 
-Consider the difference in informational utility between knowing the word count stats on the last 100 tweets of a specific hashtag, versus 'influential people', what about instead of counting words, aggregating stats on tweet details, rewtweets/mentions.  what other kind of data might be useful that isn't already available?  What is the ui for the data, ui for getting access to the program?
+Consider the difference in informational utility between knowing the word count stats on the last 100 tweets of a specific hashtag, versus 'influential people', what about instead of counting words, aggregating stats on tweet details, rewtweets/mentions. what other kind of data might be useful that isn't already available?  What is the ui for the data, ui for getting access to the program?
 
 # Food for thought, aka, Eat my words..
 

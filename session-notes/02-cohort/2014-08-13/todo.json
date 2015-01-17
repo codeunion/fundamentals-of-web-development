@@ -1,7 +1,7 @@
 {
   "todo": [
             { "title": "Build Some SQL Queries",
-              "body": "- [ ] Fork and clone https://github.com/codeunion/sql-queries \n- [ ] Read the Readme, follow the instructions to load the database. \n- [ ] Read and digest queries.sql, write your own queries for all the different situations, learn about SELECT. \n-[ ] Read and digest group_by.sql, write appropriate queries and master GROUP BY \n- [ ] Read and digest join.sql, write queries until you have joins down.  \n- [ ] Submit your queries for feedback and/or ask questions when you get stuck." 
+              "body": "- [ ] Fork and clone https://github.com/codeunion/sql-queries \n- [ ] Read the Readme, follow the instructions to load the database. \n- [ ] Read and digest queries.sql, write your own queries for all the different situations, learn about SELECT. \n-[ ] Read and digest group_by.sql, write appropriate queries and master GROUP BY \n- [ ] Read and digest join.sql, write queries until you have joins down. \n- [ ] Submit your queries for feedback and/or ask questions when you get stuck." 
             }
             ,
             { "title": "Build Wall-B, a Solid Web Application.",
