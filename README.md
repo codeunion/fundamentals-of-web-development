@@ -53,9 +53,9 @@ On Boarding involves a decent amount of 'grunt work'. The work might seem chunky
 1. Fork, clone and run the [dot env tutorial][dot-env].
   - Understand how to correctly store 'environmental keys'.
   - If you find yourself getting require errors, look at the [bundle tutorial][guide-bundler-tutorial].
-1. Fork, clone and run the [request-o-matic][request-o-matic] repository.
-  - Read this repository's readme carefully and complete any/all necessary steps
-  - Ensure that you can submit requests for feedback to [web fundamentals rff's][fundamentals-rff].
+1. Install the [CodeUnion command-line tool][codeunion-client]
+  - Read this repository's README carefully so that you understand how it works.
+  - This is how you submit feedback! So you should use it.
 1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-settings]!
   - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width.
 1. Get started with [Sprint 1][sprint-1]
@@ -175,6 +175,7 @@ That means: **come prepared**.
 
 [dot-env]:https://github.com/codeunion/dotenv-example
 [request-o-matic]:https://github.com/codeunion/request-o-matic/
+[codeunion-client]:https://github.com/codeunion/codeunion-client
 
 <!-- Guides -->
 
