@@ -85,7 +85,7 @@ The **command line** is that scary-seeming, all-text interface you often [see in
 To start, you only need to understand a few basic commands. Here are some resources:
 
 1. Skillcrush's [Command Line Overview][skillcrush-cli]
-1. CodeUnion's [Command Line Essentials](guides/Command-Line-Essentials.md)
+1. CodeUnion's [Command Line Essentials][guide-command-line-essentials]
 1. Treehouse's [Command Line Basics][treehouse-cli-basics]
 1. Zed Shaw's [Command Line Crash Course][zed-shaw-cli]
 
