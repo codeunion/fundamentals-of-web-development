@@ -20,13 +20,17 @@ You can also send a notification to everyone on the channel by including `@group
 
 Please email outreach@codeunion.io if you haven't received your slack invite or would like another.
 
+## Email
+
+You can always send emails to your instructors or to the Web Fundamentals mailing list. But, usually, Slack is a better option. :D
+
+If you're really stuck on something, and Slack isn't giving you any answers, you can always email stuck@codeunion.io. Easy to remember, right?
+
+Please email outreach@codeunion.io if you have any email-related questions.
+
 ## Facebook
 
-https://www.facebook.com/groups/codeunion
-
-## Email access
-
-### <a href="stuck@codeunion.io">stuck@codeunion.io</a>
+CodeUnion has a Facebook group https://www.facebook.com/groups/codeunion. Students past and present are welcome to join.
 
 [slack-cu]:https://codeunion.slack.com/
 [slack-web-fun-channel]:https://codeunion.slack.com/messages/web-fundamentals/
