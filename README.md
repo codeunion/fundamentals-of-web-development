@@ -126,7 +126,7 @@ Follow the instructions on the README for the [CodeUnion command-line tool][code
 When configuring the tool for giving feedback, set the configuration variable `feedback.repository` to `codeunion/feedback-requests-web-fundamentals/`, like this:
 
 ```shell-session
-$ codeunion config feedback.repository codeunion/feedback-requests-web-fundamentals
+$ codeunion config set feedback.repository codeunion/feedback-requests-web-fundamentals
 ```
 
 All requests for feedback are stored as [issues in the codeunion/feedback-requests-web-fundamentals][fundamentals-rff] repository. If an issue is open, it means that feedback has not yet been given.
