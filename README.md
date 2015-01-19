@@ -10,6 +10,7 @@ Welcome to CodeUnion's *Fundamentals of Web Development* workshop. If you're rea
 1. [Your Development Environment](#your-development-environment)
   1. [The Command Line](#the-command-line)
   1. [Git at CodeUnion](#git-at-codeunion)
+1. [Feedback](#feedback)
 1. [Expectations](#expectations)
   1. [Students should expect that teachers will...](#students-should-expect-that-teachers-will)
   1. [We expect that students will...](#we-expect-that-students-will)
@@ -55,11 +56,11 @@ On Boarding involves a decent amount of 'grunt work'. The work might seem chunky
   - If you find yourself getting require errors, look at the [bundle tutorial][guide-bundler-tutorial].
 1. Install the [CodeUnion command-line tool][codeunion-client]
   - Read this repository's README carefully so that you understand how it works.
-  - This is how you submit feedback! So you should use it.
+  - This is how you submit [feedback](#feedback)! So you should use it.
 1. For the :heart: of :monkey: :monkey: :monkey: square away your [indentation settings][indentation-settings]!
   - CodeUnion and all ruby coders require 'Soft-tabs' of 2 space width.
 1. Get started with [Sprint 1][sprint-1]
-  - Don't forget to ask for feedback!
+  - Don't forget to send [feedback](#feedback) requests!
 
 You have successfully on boarded when you complete the above tasks and begin making requests for feedback on your code. Completing the on boarding phase by the first day of your workshop will really help maximize your coding momentum. That being said, you should aim to complete your on boarding process as soon as you can but for certain, no later than the end of the first week of your Web Fundamentals Workshop.
 
@@ -105,6 +106,30 @@ Git and [GitHub](http://github.com) form the foundation for much of CodeUnion's 
 We expect much of the first week to involve getting students comfortable with git and GitHub. If you're looking for more material, we recommend:
 * [Four videos about git](http://git-scm.com/videos) from the creators and maintainers of git
 * CodeSchool's *[Try Git][codeschool-try-git]* mini-course
+
+## Feedback
+
+Ahhh, feedback, the lifeblood of CodeUnion's ability make sure everyone progresses.
+
+Asking for, giving and receiving actionable feedback are all learned skills.  Ask for feedback on small amounts of code, provide context whenever necessary.
+
+At CodeUnion, feedback is so important that we baked it into our [command-line tool][codeunion-client]. Requesting feedback on your code is just a command away:
+
+```shell-session
+$ codeunion feedback request URL
+```
+
+Where `URL` is either a pull request or a specific commit.
+
+Follow the instructions on the README for the [CodeUnion command-line tool][codeunion-client] to get started.
+
+When configuring the tool for giving feedback, set the configuration variable `feedback.repository` to `codeunion/feedback-requests-web-fundamentals/`, like this:
+
+```shell-session
+$ codeunion config feedback.repository codeunion/feedback-requests-web-fundamentals
+```
+
+All requests for feedback are stored as [issues in the codeunion/feedback-requests-web-fundamentals][fundamentals-rff] repository. If an issue is open, it means that feedback has not yet been given.
 
 ## Expectations
 
