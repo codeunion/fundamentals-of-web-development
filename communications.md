@@ -1,10 +1,6 @@
 # Communications
 
-**Let us help you.**
-
-If you are working on code and you have any problems, stuck on something, it won't run, something in your development environment breaks, your cat eats your hard drive, the files for some reason aren't in the computer, etc.
-
-Anytime, any place, we will try to make it work. Part of the CodeUnion process requires remote communication. We will always go the distance to help you get your situation resolved. Make sure to review and understand the ways that you can communicate with us.
+Good communication is always important, and especially for remote learning. At CodeUnion, we try to make communication as fluid, clear, and accessible as possible.
 
 There are five platforms for communication at CodeUnion:
 
@@ -13,6 +9,12 @@ There are five platforms for communication at CodeUnion:
 1. [Live Sessions](#live-sessions) - live seminars with instructor and students
 1. [Email](#email) - general broadcasts of information, sensitive information
 1. [Facebook](#facebook) - because everyone loves a FB group
+
+**Let us help you.**
+
+If you are working on code and you have any problems, stuck on something, it won't run, something in your development environment breaks, your cat eats your hard drive, the files for some reason aren't in the computer, etc.
+
+Anytime, any place, we will try to make it work. Part of the CodeUnion process requires remote communication. We will always go the distance to help you get your situation resolved. Make sure to review and understand the ways that you can communicate with us.
 
 ## Slack
 
