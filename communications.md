@@ -26,7 +26,7 @@ If you're new to Slack, take a gander at the [Slack Basics][slack-basics-help] h
 
 A few important / useful tips: you can @-mention anyone in a Slack channel and it will send them a notification. For example, to message Jesse, you would write `@jfarmer` in your post.
 
-You can also send a notification to everyone on the channel by including `@group` in your post.
+You can also send a notification to everyone on the channel by including `@channel` in your post.
 
 Please email outreach@codeunion.io if you haven't received your slack invite or would like another.
 
