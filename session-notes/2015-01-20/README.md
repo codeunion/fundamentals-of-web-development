@@ -1,4 +1,6 @@
-# Notes for 2015-01-21
+# Fundamentals of Web Development
+
+**January 20, 2015**
 
 Introductions. Course overview.
 
