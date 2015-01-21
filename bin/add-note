@@ -3,37 +3,44 @@
 # Create a new note in the session-notes/CURRENT-COHORT/ directory
 #
 # Usage:
-# $ bin/add-note [cohort_dir]
-#
-# Examples:
 # $ bin/add-note
-# $ bin/add-note session-notes/2015-jan-cohort/
 #
-# Note files take the format `YYYYMMDD-notes.md`.
+# Note files are stored in directories with the format `YYYY-MM-DD`.
 # For example, a note file for the January 20, 2015 session would be:
-#   20150120-notes.md
+#   session-notes/2015-01-20/README.md
 
 require 'date'
 
-DEFAULT_COHORT = File.expand_path("../../session-notes/2015-jan-cohort/", __FILE__)
+NOTES_DIR = File.expand_path("../../session-notes/", __FILE__)
 
-def formatted_date
-  Date.today.strftime("%Y-%m-%d")
+def note_dir
+  File.join(NOTES_DIR, condensed_date)
 end
 
 def note_filename
-  formatted_date + "-notes.md"
+  "README.md"
+end
+
+def condensed_date
+  Date.today.strftime("%Y-%m-%d")
+end
+
+def verbose_date
+  Date.today.strftime("%B %d, %Y")
 end
 
 def create_note(note_path)
   File.open(note_path, "w") do |file|
-    file.puts "# Notes for #{formatted_date}"
+    file.puts "# Fundamentals of Web Development"
+    file.puts
+    file.puts "**#{verbose_date}**"
   end
 end
 
 if $0 == __FILE__
-  cohort_dir = ARGV[0] || DEFAULT_COHORT
-  note_path  = File.join(cohort_dir, note_filename)
+  Dir.mkdir(note_dir) unless Dir.exists?(note_dir)
+
+  note_path = File.join(note_dir, note_filename)
 
   if File.exists?(note_path)
     puts "Note file at #{note_path} already exists."
