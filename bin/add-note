@@ -1,0 +1,46 @@
+#!/usr/bin/env ruby
+
+# Create a new note in the session-notes/CURRENT-COHORT/ directory
+#
+# Usage:
+# $ bin/add-note [cohort_dir]
+#
+# Examples:
+# $ bin/add-note
+# $ bin/add-note session-notes/2015-jan-cohort/
+#
+# Note files take the format `YYYYMMDD-notes.md`.
+# For example, a note file for the January 20, 2015 session would be:
+#   20150120-notes.md
+
+require 'date'
+
+DEFAULT_COHORT = File.expand_path("../../session-notes/2015-jan-cohort/", __FILE__)
+
+def formatted_date
+  Date.today.strftime("%Y-%m-%d")
+end
+
+def note_filename
+  formatted_date + "-notes.md"
+end
+
+def create_note(note_path)
+  File.open(note_path, "w") do |file|
+    file.puts "# Notes for #{formatted_date}"
+  end
+end
+
+if $0 == __FILE__
+  cohort_dir = ARGV[0] || DEFAULT_COHORT
+  note_path  = File.join(cohort_dir, note_filename)
+
+  if File.exists?(note_path)
+    puts "Note file at #{note_path} already exists."
+    exit 1
+  end
+
+  create_note(note_path)
+
+  puts "New note created at #{note_path}."
+end
