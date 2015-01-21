@@ -41,6 +41,11 @@ We _do not_ expect students to complete every exercise every week, but you shoul
 1. print_horizontal_pyramid.rb
 1. hot_or_cold.rb
 
+### Examples
+
+[Ruby Examples][ruby-examples]: examples of Ruby programs to solve common tasks.
+As we move through the workshop, if there are requests for more examples, we can add them here.
+
 ### Guidance
 
 #### What to focus on
@@ -81,3 +86,7 @@ We know this is easier said than done, so use this list as a check for when you 
 <!-- Exercises -->
 
 [ruby-exercises]:https://github.com/codeunion/ruby-exercises
+
+<!-- Examples -->
+
+[ruby-examples]:https://github.com/codeunion/ruby-examples
