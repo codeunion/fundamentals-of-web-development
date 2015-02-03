@@ -13,7 +13,6 @@
 
 ### Projects
 
-- [Social Wall][social-wall]
 - [Wall-B, Message Board][wall-b]
 - [Tweetalyzer][tweetalyzer]
 
@@ -59,7 +58,6 @@ Use these examples to bolster your understanding.
 
 <!-- Projects -->
 
-[social-wall]:https://github.com/codeunion/social-wall
 [wall-b]:https://github.com/codeunion/wall-b
 [tweetalyzer]:https://github.com/codeunion/tweetalyzer
 
