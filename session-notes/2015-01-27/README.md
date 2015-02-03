@@ -2,6 +2,8 @@
 
 **January 27, 2015**
 
+Video: http://youtu.be/otbA10J8Jtw
+
 ## Broken Link Finder
 
 We're going to write a Ruby script that will take a web page and find all broken links on that page.

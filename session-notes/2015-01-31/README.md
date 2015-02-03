@@ -2,6 +2,8 @@
 
 **January 31, 2015**
 
+Video: http://youtu.be/xiCKiGDtQms
+
 ## Objects
 
 Technical definition of objects: **encapsulate behavior and state**.
