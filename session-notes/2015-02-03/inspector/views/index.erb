@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title><%= @title %></title>
+  </head>
+  <body>
+    <%= erb :header %>
+
+    <hr>
+
+    <footer>
+      <%= erb :debug_info if settings.environment == :development %>
+    </footer>
+  </body>
+</html>

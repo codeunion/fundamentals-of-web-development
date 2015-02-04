@@ -1,0 +1,59 @@
+<h3>REQUEST DATA</h3>
+
+<strong>Host</strong>
+<pre><%= request.host %></pre>
+
+<strong>IP</strong>
+<pre><%= request.ip %></pre>
+
+<strong>Request body</strong>
+<pre><%= request.body %></pre>
+
+<strong>Request scheme</strong>
+<pre><%= request.scheme %></pre>
+
+<strong>Request path info</strong>
+<pre><%= request.path_info %></pre>
+
+<strong>Request port</strong>
+<pre><%= request.port %></pre>
+
+<strong>Request method</strong>
+<pre><%= request.request_method %></pre>
+
+<strong>Request query string</strong>
+<pre><%= request.query_string %></pre>
+
+<strong>Request media type</strong>
+<pre><%= request.media_type %></pre>
+
+<strong>Request host</strong>
+<pre><%= request.host %></pre>
+
+<strong>Request user agent</strong>
+<pre><%= request.user_agent %></pre>
+
+<strong>Request URL</strong>
+<pre><%= request.url %></pre>
+
+<strong>Request path</strong>
+<pre><%= request.path %></pre>
+
+<strong>Request IP</strong>
+<pre><%= request.ip %></pre>
+
+<h3>SINATRA INTERNALS</h3>
+
+<strong>Params</strong>
+<pre><%= params.inspect %></pre>
+
+<strong>Route</strong>
+<pre><%= env['sinatra.route'] %></pre>
+
+<h3>RESPONSE DATA</h3>
+
+<strong>Response headers</strong>
+<pre><%= headers %></pre>
+
+<strong>Response status</strong>
+<pre><%= status %></pre>
