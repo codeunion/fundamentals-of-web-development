@@ -1,7 +1,5 @@
 require 'sinatra'
 
-# send GET to /fruit/bananas
-
 get '/home' do
   @message = "Welcome!"
 
@@ -16,6 +14,6 @@ get '/fruit/:fruit_name' do
   "Page to buy #{params[:fruit_name]}"
 end
 
-# get '/*' do
-#   "WILDCARD"
-# end
+get '/*' do
+  "WILDCARD"
+end
