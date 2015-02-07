@@ -25,3 +25,16 @@ GET   /people/:id/edit    # view a form to edit an existing person
 POST  /people/:id/edit    # UPDATE the person in the address book database
 POST  /people/:id/delete  # DELETE a person from the address book database
 ```
+
+The code we wrote in the session is available in [address-book](address-book).
+
+```
+address-book/
+├── Gemfile
+├── Gemfile.lock
+├── address-book-test.rb # tests for CRUD actions using Contact model
+├── address-book.db      # SQLite database file
+├── data-model.rb        # setup DataMapper, define Contact model
+├── dex-server.rb        # Sinatra server to provide web interface (INCOMPLETE)
+└── dex.rb               # CLI interface to manage contacts
+```
