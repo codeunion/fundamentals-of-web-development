@@ -2,6 +2,8 @@
 
 **February 07, 2015**
 
+Video: http://youtu.be/b0cRBolCZTQ
+
 ## Build an Address Book
 
 or, "Database-backed Applications with a Web Interface".

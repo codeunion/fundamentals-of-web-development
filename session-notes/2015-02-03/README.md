@@ -2,6 +2,8 @@
 
 **February 03, 2015**
 
+Video: http://youtu.be/mdE5KG9RDBQ
+
 ## Introduction to Sinatra and the Web
 
 ### Files
