@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Pets</title>
+  </head>
+  <body>
+    <h1>All the Pets</h1>
+
+    <% @all_pets.each do |pet| %>
+      <p><%= pet.name %></p>
+    <% end %>
+
+    <form action="create_pet" method="post">
+      <input type="text" name="pet_name">
+
+      <input type="submit" value="Create Pet">
+    </form>
+  </body>
+</html>
