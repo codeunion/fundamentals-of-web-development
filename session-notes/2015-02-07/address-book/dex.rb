@@ -33,7 +33,7 @@ if __FILE__ == $PROGRAM_NAME
     # update a record
     # $ ruby dex.rb update 11 "{name: 'Yolanda', email: 'yolanda@gmail.com'}"
     id = ARGV[1]
-    properties = properties = eval(ARGV[2])
+    properties = eval(ARGV[2])
 
     contact = Contact.get(id)
 
