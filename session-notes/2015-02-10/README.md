@@ -35,3 +35,14 @@ two users: hiker, admin
 ### Wireframes
 
 ![wireframe](http://cl.ly/image/0g1X2k0e1w3K/backcountry-wireframe.jpg)
+
+### Routes
+
+#### v1
+
+```
+GET   /                     list all the parks
+GET   /:park_name           show park detail (example: /yellowstone)
+POST  /:park_name/register  apply for a permit
+GET   /admin/permits        list of all permits
+```
