@@ -31,3 +31,7 @@ two users: hiker, admin
 - As a hiker, I want a confirmation that my application was accepted
 - As an admin, I want to be able to contact permit holders by phone
 - As an admin, I want to see the payment status for a permit
+
+### Wireframes
+
+![wireframe](http://cl.ly/image/0g1X2k0e1w3K/backcountry-wireframe.jpg)
