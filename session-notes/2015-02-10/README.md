@@ -2,6 +2,8 @@
 
 **February 10, 2015**
 
+Video: http://youtu.be/oLZiQSLhq4c
+
 ## A View-First Approach to Design
 
 We're going to build an app that manages backcountry permits. These are the things that you need if you want to go backpacking in the wilderness or in the backcountry of a National Park.
