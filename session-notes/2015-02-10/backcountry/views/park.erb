@@ -1,0 +1,28 @@
+<html>
+  <head>
+    <title><%= park_name.capitalize %></title>
+  </head>
+  <body>
+    <h1><%= park_name.capitalize %></h1>
+
+    <p>
+      Park information here...
+    </p>
+
+    <hr>
+
+    <form id="register_permit" action="<%= park_name %>/register" method="post">
+      <h4>Register for a Backcountry Permit</h4>
+
+      <label for="hiker_name">Name</label>
+      <input id="hiker_name" type="text" name="permit[hiker_name]" value="Joe Schmo">
+
+      <label for="hiker_phone">Mobile Phone</label>
+      <input type="tel" name="permit[hiker_phone]" value="555-812-2818">
+
+      <input type="hidden" name="permit[park_name]" value="<%= params[:park_name] %>">
+
+      <input type="submit" value="Register">
+    </form>
+  </body>
+</html>
