@@ -2,6 +2,8 @@
 
 **February 12, 2015**
 
+Video: http://youtu.be/uY_z8LZcpdI
+
 Questions:
 
 - What's the deal with run_length_encode? (what about #inject) - 10-15
