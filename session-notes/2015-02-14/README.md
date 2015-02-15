@@ -2,6 +2,8 @@
 
 **February 14, 2015**
 
+Video: http://youtu.be/YnevmOt1PGE
+
 ## Craigslist Scraper
 
 Stage 1: Create our data model & build a relational database to store CL info
