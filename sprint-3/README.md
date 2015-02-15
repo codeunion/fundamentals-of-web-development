@@ -29,7 +29,7 @@ We _do not_ expect students to complete every exercise every week, but you shoul
 1. die_sides.rb
 1. die_labels.rb
 1. board.rb
-1. hot_or_cold.rb
+1. hot_or_cold_class.rb
 
 #### Sinatra
 
