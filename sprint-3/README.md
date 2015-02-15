@@ -11,7 +11,6 @@
 
 ### Projects
 
-- [Can I Eat Here][can-i-eat-here]
 - [Air Stable][air-stable]
 - [LinkedOut][linkedout]
 
@@ -42,13 +41,13 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 Use these examples to bolster your understanding.
 
 1. [Yardsale][yardsale] (Craigslist clone)
+1. [Can I Eat Here][can-i-eat-here] (Yelp clone)
 1. [Examples: Sinatra][examples-sinatra] (common web development patterns implemented in Sinatra)
 1. [LinkedOut - Example][linkedout-example]
 
 <!-- Projects -->
 
 [air-stable]:https://github.com/codeunion/air-stable
-[can-i-eat-here]:https://github.com/codeunion/can-i-eat-here
 [linkedout]:https://github.com/codeunion/linkedout
 
 <!-- Exercises -->
@@ -58,6 +57,7 @@ Use these examples to bolster your understanding.
 
 <!-- Examples -->
 
+[can-i-eat-here]:https://github.com/codeunion/can-i-eat-here
 [yardsale]:https://github.com/codeunion/yardsale
 [examples-sinatra]:https://github.com/codeunion/examples-sinatra
 [linkedout-example]:https://github.com/codeunion/linkedout-example
