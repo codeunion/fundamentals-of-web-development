@@ -36,6 +36,10 @@ Complete the following exercises (in order) from the [Sinatra Exercises][sinatra
 
 1. Sinatra Katas
 
+#### JavaScript
+
+Explore and complete some of the [JavaScript Exercises][javascript-exercises]. **NOTE**: this repo is a WIP (work in progress), so there are still many pieces missing. 
+
 ### Examples
 
 Use these examples to bolster your understanding.
@@ -54,6 +58,7 @@ Use these examples to bolster your understanding.
 
 [ruby-exercises]:https://github.com/codeunion/ruby-exercises
 [sinatra-exercises]:https://github.com/codeunion/sinatra-exercises
+[javascript-exercises]:https://github.com/codeunion/javascript-exercises
 
 <!-- Examples -->
 
