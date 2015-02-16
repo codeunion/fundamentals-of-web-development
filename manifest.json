@@ -1,0 +1,23 @@
+{
+  "category": "guide",
+  "tags": [
+    "ruby",
+    "html",
+    "css",
+    "javascript",
+    "sinatra",
+    "http",
+    "cookies",
+    "sessions",
+    "authentication",
+    "file-uploading",
+    "persistence",
+    "wireframing",
+    "ajax",
+    "background-jobs",
+    "building-crud-web-apps",
+    "relational-databases",
+    "jquery"
+  ],
+  "notes": "Most materials in the wiki."
+}
