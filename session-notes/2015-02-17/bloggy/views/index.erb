@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Bloggy</title>
+  </head>
+  <body>
+    <header>
+      <% if @user %>
+        Welcome, <%= @user.username %>
+      <% end %>
+    </header>
+
+    Bloggy stuff
+  </body>
+</html>

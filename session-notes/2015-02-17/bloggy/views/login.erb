@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <title>Login</title>
+  </head>
+  <body>
+    <% if @errors %>
+      <%= @errors %>
+    <% end %>
+
+    <form action="/login" method="post">
+      <label>Username:
+        <input id="username" type="text" name="username" value="">
+      </label><br>
+
+      <label for="password">Password:</label>
+      <input id="password" type="password" name="password" value=""><br>
+
+      <input type="submit" value="Login">
+    </form>
+  </body>
+</html>
