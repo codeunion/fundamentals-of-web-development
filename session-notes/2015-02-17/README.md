@@ -2,6 +2,8 @@
 
 **February 17, 2015**
 
+Video: http://youtu.be/6C7EktkocCY
+
 ## User Authentication and Authorization
 
 We'll build out the user layer of a blog app.
