@@ -2,6 +2,8 @@
 
 **February 21, 2015**
 
+Video: http://youtu.be/xgUvRw0gEC8
+
 ## Associations in DataMapper
 
 We're going to explore database associations in more detail.
