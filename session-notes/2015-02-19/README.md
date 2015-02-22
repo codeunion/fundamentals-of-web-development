@@ -2,6 +2,8 @@
 
 **February 19, 2015**
 
+Video: http://youtu.be/rpbf0WkQ1TU
+
 Questions:
 
 - What are procs
