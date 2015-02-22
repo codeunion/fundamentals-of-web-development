@@ -31,6 +31,26 @@ User stories [MVP]:
 - As a user, I want to see all notes in a notebook.
 - As a user, I want to see all notes that have a particular tag.
 
+The schema for this MVP looks like this:
+
+```sql
+CREATE TABLE "users" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "username" VARCHAR(50) NOT NULL, "password" VARCHAR(60) NOT NULL);
+CREATE UNIQUE INDEX "unique_users_username" ON "users" ("username");
+
+CREATE TABLE "notes" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "title" VARCHAR(50) NOT NULL, "content" TEXT DEFAULT 'Blank note', "notebook_id" INTEGER NOT NULL);
+CREATE INDEX "index_notes_notebook" ON "notes" ("notebook_id");
+
+CREATE TABLE "notebooks" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "name" VARCHAR(50) NOT NULL, "user_id" INTEGER NOT NULL);
+CREATE INDEX "index_notebooks_user" ON "notebooks" ("user_id");
+
+CREATE TABLE "taggings" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "note_id" INTEGER NOT NULL, "tag_id" INTEGER NOT NULL);
+CREATE INDEX "index_taggings_note" ON "taggings" ("note_id");
+CREATE INDEX "index_taggings_tag" ON "taggings" ("tag_id");
+
+CREATE TABLE "tags" ("id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, "name" VARCHAR(30) NOT NULL);
+CREATE UNIQUE INDEX "unique_tags_name" ON "tags" ("name");
+```
+
 User stories [alpha]:
 
 - As a user, I want to share notes with my friends.
