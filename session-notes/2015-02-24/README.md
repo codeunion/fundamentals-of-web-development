@@ -11,8 +11,8 @@ Goals:
   - Functions
   - Data structures
 1. Explore the primary execution context of JavaScript (i.e. a web browser)
-  - The console
   - Loading JS files
+  - The console
   - Traversing HTML
   - Debugging
 
