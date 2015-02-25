@@ -2,6 +2,8 @@
 
 **February 24, 2015**
 
+Video: http://youtu.be/UfPPqsCK5pg
+
 ## Introduction to JavaScript
 
 Goals:
