@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JavaScript Demo</title>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+		<script>
+			jQuery(document).on('ready', function() {
+				jQuery('.color-links a').on('click', function(event) {
+					var color = jQuery(this).attr('data-color');
+					jQuery('.list-o-stuff li').css('color', color);
+
+					event.preventDefault();
+				});
+
+			});
+		</script>
+	</head>
+	<body>
+		<div class="color-links">
+			<a href="#" data-color="#CC0000">Red me!</a> |
+			<a href="#" data-color="#00CC00">Green me!</a> |
+			<a href="#" data-color="#0000CC">Blue me!</a>
+			<p><a href="#" data-color="#CC00CC">Purple me!</a></p>
+		</div>
+
+		<ul class="list-o-stuff">
+			<li><a href="#first">First thing</a></li>
+			<li>Second thing</li>
+			<li>Third thing</li>
+		</ul>
+	</body>
+</html>

@@ -1,0 +1,59 @@
+/*
+  The key idea is to use "position: fixed" and "z-index"
+  to position the modal dialogs above every other element
+  on the page, preventing the user from interacting with
+  any element "below" the modal dialog.
+
+  We can turn any part of the site into a modal dialog by
+  wrapping it with an element that has a "modal" class.
+
+  - jfarmer
+*/
+
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 9000;
+
+  display: none;      /* Hide modal dialogs by default. */
+  height: 100%;
+  width: 100%;
+}
+
+.modal .modal-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  background-color: rgba(0,0,0,0.5);
+  height: 100%;
+  width: 100%;
+}
+
+.modal .modal-close {
+  float: right;
+}
+
+/*
+  Elements are positioned horizontally according to their left-most edge.
+  By giving the modal content a negative left margin that is exactly half its
+  width, we'll center the modal dialog. In this case, we have
+
+    width: 400px;
+    margin-left: -200px;
+*/
+
+.modal .modal-content {
+  position: fixed;
+  top: 25%;
+  left: 50%;
+  z-index: 9020;
+
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 3px 3px 1px rgba(0,0,0,0.3);
+  padding: 40px;
+  margin-left: -200px;
+  width: 400px;
+}

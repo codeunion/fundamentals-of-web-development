@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Modal Dialog Demo</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="modal.js"></script>
+    <link rel="stylesheet" type="text/css" href="normalize.css">
+    <link rel="stylesheet" type="text/css" href="modal.css">
+    <style type="text/css">
+      /*
+        Note: the modal-specific styles are in modal.css.
+        These styles are to make this page look decent.
+      */
+
+      #content {
+        margin: 0 auto;
+        padding: 20px;
+        width: 600px;
+      }
+
+      #content p {
+        line-height: 1.5;
+      }
+
+      .modal h2 {
+        margin-top: 0; /* Remove top margin from h2 headers in modal */
+      }
+
+      .modal p:last-child {
+        margin-bottom: 0; /* Remove bottom margin from last p in modal */
+      }
+
+      .modal-button-list {
+        list-style-type: none;
+        margin: 1.5em 0;
+        text-align: center;
+      }
+
+      .modal-button-list li {
+        display: inline-block;
+        margin-right: 1.5em;
+      }
+
+      .modal-button-list li button {
+        padding: 10px;
+        width: 200px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="content">
+      <h1>Modal Dialog Demo</h1>
+      <p>This is a demo of a 100% home-grown modal dialog system. Click the buttons below to see the modal dialogs.  View the source code for this page to see the nitty gritty.</p>
+
+      <!-- Button trigger modal -->
+      <ul class="modal-button-list">
+        <li>
+          <button class="show-modal" data-modal="#email_modal">
+            Display Email Modal
+          </button>
+        </li>
+        <li>
+          <button class="show-modal" data-modal="#user_modal">
+            Display User Modal
+          </button>
+        </li>
+      </ul>
+
+      <h2>Relevant Files</h2>
+      <p>Please, <em>please</em>, <strong>please</strong> look at the contents of these files.</p>
+      <h3>modal.css</h3>
+      <p>
+        <code>modal.css</code> contains all the styling for the modal dialogs. The key idea is to use "position: fixed" and "z-index" to position the modal dialogs above every other element on the page, preventing the user from interacting with any element "below" the modal dialog.
+      </p>
+      <h3>modal.js</h3>
+      <p>
+        <code>modal.js</code> contains all the behavior logic for the modal dialogs. The key idea is to assume as little as possible about the underlying DOM structure, i.e., what elements we need, what classes they should have, and how they're arranged in the document relative to each other.
+      </p>
+
+      <!--
+        These are the actual modal dialogs.  They're hidden by default.
+        See modal.css for their styles.
+      -->
+
+      <div class="modal" id="email_modal">
+        <div class="cool-container">
+          <div class="modal-background"></div>
+          <div class="modal-content">
+            <a href="#" class="modal-close">[X]</a>
+            <h2>Email Modal</h2>
+            <p>To close this dialog, you can do one of three things:</p>
+            <ol>
+              <li>
+                <p>Click the "X" button</p>
+              </li>
+              <li>
+                <p>Click the semi-transparent background surrounding the modal dialog</p>
+              </li>
+              <li>
+                <p>Press the <code>ESC</code> key.</p>
+              </li>
+            </ol>
+            <p>See <code>modal.js</code> for the JavaScript code that drives these behaviors.</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="modal" id="user_modal">
+        <div class="cool-container">
+          <div class="modal-background"></div>
+          <div class="modal-content">
+            <a href="#" class="modal-close">[X]</a>
+            <h2>User Modal</h2>
+            <p>To close this dialog, you can do one of three things:</p>
+            <ol>
+              <li>
+                <p>Click the "X" button</p>
+              </li>
+              <li>
+                <p>Click the semi-transparent background surrounding the modal dialog</p>
+              </li>
+              <li>
+                <p>Press the <code>ESC</code> key.</p>
+              </li>
+            </ol>
+            <p>See <code>modal.js</code> for the JavaScript code that drives these behaviors.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
