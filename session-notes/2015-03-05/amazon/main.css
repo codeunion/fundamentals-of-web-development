@@ -1,0 +1,8 @@
+.field {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.field .error-message {
+  color: red;
+}

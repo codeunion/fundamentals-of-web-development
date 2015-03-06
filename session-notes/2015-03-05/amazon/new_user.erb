@@ -1,0 +1,49 @@
+<ul>
+  <% @user.errors.each do |error| %>
+    <li><%= error %></li>
+  <% end %>
+</ul>
+
+<article>
+
+  <form action="/users" method="post">
+
+    <div class="field">
+      <input id="first_name" type="text" name="user[first_name]"
+        value="<%= @user.first_name %>" placeholder="First Name">
+      <span class="error-message"></span>
+    </div>
+
+    <div class="field">
+      <input id="last_name" type="text" name="user[last_name]"
+        value="<%= @user.last_name %>" placeholder="Last Name">
+      <span class="error-message"></span>
+    </div>
+
+    <div class="field">
+      <input type="text" name="user[email]"
+        value="<%= @user.email %>" placeholder="Email">
+      <span class="error-message"></span>
+    </div>
+
+    <div class="field">
+      <input id="telephone" type="tel" name="user[phone_number]" pattern="\d{3}[\-]\d{3}[\-]\d{4}"
+        value="<%= @user.phone_number %>" placeholder="212-555-5555">
+      <span class="error-message"></span>
+    </div>
+
+    <div class="field">
+      <input type="password" name="user[password]" placeholder="Password">
+      <span class="error-message"></span>
+    </div>
+
+    <div class="field">
+      <input type="password" name="user[password_confirmation]" placeholder="Confirm Password">
+      <span class="error-message"></span>
+    </div>
+
+    <button>Sign up</button>
+
+  </form>
+
+</article>
