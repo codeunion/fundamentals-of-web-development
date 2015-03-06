@@ -2,6 +2,8 @@
 
 **March 04, 2015**
 
+Video: http://youtu.be/ScGHbBcljzI
+
 ## Q & A session
 
 Sagar: Real-time error messages in HTML forms
