@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Flicker</title>
+  </head>
+  <body>
+    It's alive!
+
+    <ul>
+    <% @photos.each do |photo| %>
+      <li><%= photo.name %> : <%= photo.src %></li>
+    <% end %>
+    </ul>
+  </body>
+</html>
