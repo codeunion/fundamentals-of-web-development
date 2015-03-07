@@ -2,6 +2,8 @@
 
 **March 07, 2015**
 
+Video: http://youtu.be/IYlS-E5QfU4
+
 Topics:
 
 - Showing DataMapper form errors
