@@ -2,6 +2,8 @@
 
 **March 10, 2015**
 
+Video: http://youtu.be/oEWUlJSQE_4
+
 ## Project Building
 
 - Sagar
