@@ -2,6 +2,8 @@
 
 **March 12, 2015**
 
+Video: http://youtu.be/DXIB3pd9dUQ
+
 Questions:
 
 - Mark: objects not saving properly (using DataMapper)
