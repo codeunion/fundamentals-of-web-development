@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Alarmist</title>
+
+    <script src="https://code.jquery.com/jquery-2.1.3.js"></script>
+    <script src="poll.js"></script>
+  </head>
+  <body>
+    <% @alarms.each do |alarm| %>
+      <div id="<%= alarm.id %>" class="alarm">
+        <h5><%= alarm.area %>
+          <% if alarm.engaged %>
+            ALERT!
+          <% end %>
+        </h5>
+      </div>
+    <% end %>
+  </body>
+</html>
