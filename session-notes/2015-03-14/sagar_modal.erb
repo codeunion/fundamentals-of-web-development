@@ -1,0 +1,31 @@
+<div>
+  <div class="login-form create-group-container container">
+    <p>
+      <span class="form-heading">CREATE GROUP</span>
+    </p>
+
+    <form id="create-group-form" class="form-container" action="/create_group" method="post">
+
+      <div class="form-group">
+        <input class="form-control sign-in-input" type="text" name="group[group_name]" placeholder="Group Name"></br>
+        <input class="form-control sign-in-input" type="password" name="group[password]" placeholder="Password"></br>
+        <input class="form-control sign-in-input" type="password" name="group[password_confirmation]" placeholder="Confirm Password"></br>
+        <a class="btn btn-orange sign-in-input">Create Group</a>
+
+        <div id="confirm-group">
+          <h3>
+            Please share this information with your group.
+          </h3>
+
+          <button id="confirm-group-button" class="btn btn-orange">Confirm</button>
+        </div>
+      </div>
+
+      <a id="create-group" href="/">Back</a>
+
+    </form>
+
+
+  </div>
+
+</div>
